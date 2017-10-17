@@ -37,7 +37,7 @@ home = [ "HTML", "RSS", "JSON"]
 
     # postpended links
     [[menu.postpend]]
-     url = "https://esanjo.com"
+     url = "/"
      name = "The Esanjo Way"
      weight = 10
 
