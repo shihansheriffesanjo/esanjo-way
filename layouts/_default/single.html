@@ -14,13 +14,16 @@
     <div class="main-header">
       {{ partial "hero-common.html" .}}
     </div>
-    <div class="main-ctr container">
+    <div class="main-ctr container ">
       <div id="search-overlay" class="search-overlay"></div>
-      <div class="col-md-4">
+      <div class="col-md-4 left-ctr">
+        {{ partial "toggle.html" .}}
+        <div class="sidebar-inner">
         {{ partial "search.html" .}}
         {{ partial "menu.html" . }}
       </div>
-      <div class="col-md-8">
+      </div>
+      <div class="col-md-8 right-ctr">
         <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
           <span id="sidebar-toggle-span">
             <a href="#" id="sidebar-toggle" data-sidebar-toggle="">

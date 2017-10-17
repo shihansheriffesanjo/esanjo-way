@@ -1,32 +1,38 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js"> <![endif]-->
 <html>
 
-<head>
-  {{ partial "head.html" .}}
-</head>
+  <head>
+    {{ partial "head.html" .}}
+  </head>
 
-<body>
+  <body>
     {{ partial "nav.html" .}}
-  <div class="main-header">
-    {{ partial "hero-common.html" .}}
-  </div>
-  <div class="main-ctr container">
-    <div id="search-overlay" class="search-overlay"></div>
-    <div class="col-md-4">
-        {{ partial "search.html" .}}
-      {{ partial "menu.html" . }}
+    <div class="main-header">
+      {{ partial "hero-common.html" .}}
     </div>
-    <div class="col-md-8">
-      {{ .Content}}
+    <div class="main-ctr container">
+      <div id="search-overlay" class="search-overlay"></div>
+      <div class="col-md-4 left-ctr">
+        {{ partial "toggle.html" .}}
+
+        <div class="sidebar-inner">
+          {{ partial "search.html" .}}
+          {{ partial "menu.html" . }}
+        </div>
+      </div>
+      <div class="col-md-8 right-ctr">
+        {{ .Content}}
+      </div>
     </div>
-  </div>
-  <div class="main-footer">
-    {{ if .Site.Params.footer.enable }} {{ partial "footer.html" .}} {{ end }}
-  </div>
-  {{ partial "js.html" .}}
-</body>
+    <div class="main-footer">
+      {{ if .Site.Params.footer.enable }}
+        {{ partial "footer.html" .}}
+      {{ end }}
+    </div>
+    {{ partial "js.html" .}}
+  </body>
 </html>
