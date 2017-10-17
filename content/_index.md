@@ -1,7 +1,7 @@
 ---
 title: 'The Esanjo Way'
 header: 'The Esanjo Way'
-subheader: 'Discover how we do things the Esanjo Way!'
+excerpt: 'Discover how we do things the Esanjo Way!'
 banner: '/images/projects.jpg'
 ---
 

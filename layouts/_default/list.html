@@ -31,7 +31,11 @@
             {{ template "breadcrumb" dict "page" . "value" .Title }}
           </span>
         </div>
-        {{ .Content}}
+        <ul class="p-articles">
+      {{ range (.Paginate .Data.Pages).Pages }}
+      <li>{{ .Render "li" }}</li>
+      {{ end }}
+    </ul>
       </div>
     </div>
     <div class="main-footer">

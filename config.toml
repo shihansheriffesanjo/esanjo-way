@@ -4,6 +4,9 @@ title = "Esanjo - We create, build and invest in beautiful technology businesses
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
 [params]
   disableSearch = true
   custom_css = ["/css/custom_1.css"]

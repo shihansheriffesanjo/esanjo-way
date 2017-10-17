@@ -15,7 +15,9 @@
     {{ partial "hero-common.html" .}}
   </div>
   <div class="main-ctr container">
+    <div id="search-overlay" class="search-overlay"></div>
     <div class="col-md-4">
+        {{ partial "search.html" .}}
       {{ partial "menu.html" . }}
     </div>
     <div class="col-md-8">

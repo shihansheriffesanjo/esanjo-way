@@ -291,6 +291,7 @@ ul.topics li a {
   text-decoration: none;
   transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
   font-size:18px;
+  padding-right: 10px;
 }
 ul.topics li a:hover{
   font-weight: 300;
@@ -304,7 +305,7 @@ ul.topics li.visible > a {
   color: #111;
   transform: translate(5px);
 }
-ul.topics li.active a{
+ul.topics ul li.active a{
   color: #3F95E4;
 }
 .main-ctr h1{
@@ -319,4 +320,151 @@ ul.topics li.active a{
 }
 #breadcrumbs .links a{
   color: #3F95E4;
+}
+
+.searchbox {
+    position: relative;
+    border-bottom: 1px solid #f4f4f4;
+    margin-bottom: 10px;
+    z-index: 10010;
+}
+.searchbox label {
+    color: #bbb;
+    position: absolute;
+    left: 1px;
+    top: 50%;
+    margin-top: -13px;
+}
+.searchbox span {
+    color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    right: 10px;
+    top: 3px;
+    cursor: pointer;
+}
+.searchbox span:hover {
+    color: rgba(255, 255, 255, 0.9);
+}
+.searchbox input {
+    display: inline-block;
+    color: #555;
+    width: 100%;
+    background: transparent;
+    border: 0;
+    padding: 10px 25px 10px 30px;
+    margin: 0;
+    font-weight: 300;
+}
+.searchbox input:focus{
+  outline: none;
+}
+.searchbox input::-webkit-input-placeholder {
+    color: #bbb;
+}
+.searchbox input::-moz-placeholder {
+    color: #bbb;
+}
+.searchbox input:-moz-placeholder {
+    color: #bbb;
+}
+.searchbox input:-ms-input-placeholder {
+    color: #bbb;
+}
+.autocomplete-suggestions {
+    text-align: left;
+    cursor: default;
+    border: 1px solid #f4f4f4;
+    border-top: 0;
+    background: #fff;
+
+    /* core styles should not be changed */
+    position: absolute;
+    display: none;
+    z-index: 9999;
+    max-height: 254px;
+    overflow: hidden;
+    overflow-y: auto;
+    box-sizing: border-box;
+    z-index: 10010;
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,.07), 0 7px 17px 0 rgba(0,0,0,.1);
+
+}
+.autocomplete-suggestion {
+    position: relative;
+    cursor: pointer;
+    padding: 7px;
+    line-height: 23px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #333;
+    font-size: 16px;
+    background: #fff;
+
+}
+
+.autocomplete-suggestion b {
+    font-weight: normal;
+    color: #1f8dd6;
+}
+
+.autocomplete-suggestion.selected {
+    background: #f4f4f4;
+    color: #555;
+}
+
+.autocomplete-suggestion:hover {
+    background: #f4f4f4;
+    color: #555;
+}
+
+.autocomplete-suggestion > .context {
+    font-size: 12px;
+}
+.main-ctr.container{
+  position: relative;
+}
+.search-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right:0;
+    background: hsla(0,0%,100%,.8);
+    z-index: 10000;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .25s ease-in-out;
+}
+.p-articles{
+  list-style: none;
+  padding:0;
+  margin:0;
+}
+.p-articles li{
+padding: 20px;
+}
+
+.list-li a{
+  color: #555;
+}
+.list-li a:hover{
+  text-decoration: none;
+}
+.p-articles li:nth-child(even){
+  background: #fafafa;
+}
+.p-articles li:hover{
+  background: #f7f7f7;
+  cursor: pointer;
+}
+.list-li h3{
+  font-size: 20px;
+}
+.list-li .summary{
+  font-size: 16px;
+}
+.list-li footer a{
+  font-size: 14px;
+  color: #337ab7;
 }

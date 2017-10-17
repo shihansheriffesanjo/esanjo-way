@@ -1,7 +1,7 @@
 <div class="searchbox">
-    <label for="search-by"><i class="fa fa-search"></i></label>
-    <input data-search-input id="search-by" type="text" placeholder="{{T "Search-placeholder"}}">
-    <span data-search-clear=""><i class="fa fa-close"></i></span>
+    <label for="search-by"><i class="icon-search"></i></label>
+    <input data-search-input id="search-by" type="text" placeholder="Search Esanjo Way" name="search-esanjo">
+    <div class="autocomplete-suggestions"></div>
 </div>
 {{ $assetBusting := not .Site.Params.disableAssetsBusting }}
 <script type="text/javascript" src="{{"js/lunr.min.js" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
@@ -10,7 +10,7 @@
     {{ if .Site.IsMultiLingual }}
         var baseurl = "{{.Site.BaseURL}}{{.Site.LanguagePrefix}}";
     {{ else }}
-        var baseurl = "{{.Site.BaseURL}}";
+        var baseurl = "/";//""{{.Site.BaseURL}}";
     {{ end }}
 </script>
 <script type="text/javascript" src="{{"js/search.js" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
