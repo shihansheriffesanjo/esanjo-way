@@ -5,4 +5,5 @@ next: "/next/path"
 prev: "/prev/path"
 weight: 0
 title: "Sales"
+draft: true
 ---
