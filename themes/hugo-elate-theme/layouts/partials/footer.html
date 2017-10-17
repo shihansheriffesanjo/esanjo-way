@@ -1,0 +1,61 @@
+<footer id="footer" role="contentinfo">
+  <!-- <a href="#" class="gotop js-gotop"><i class="icon-arrow-up2"></i></a> -->
+  <div class="gradient"></div>
+  <div class="container">
+    <p>Subscribe for updates</p>
+    {{ with .Site.Params.contact.email }}
+      <form action="/thank-you" id="notifyMe" name="notifyMe" netlify>
+        <div class="col-full">
+          <div class="col-md-6">
+            <div class="block-message">
+              <div class="message">
+                <p class="notify-valid"></p>
+              </div>
+            </div>
+            <label for="email" class="sr-only">{{ . | markdownify }}</label>
+            <input id="email" class="form-control" name="email" placeholder="{{ . }}" type="email">
+            <i class="spinner icon-spinner2"></i>
+          </div>
+          <input class="btn btn-primary btn-lg" type="submit">
+        </div>
+      </form>
+    {{ end }}
+
+    <div class="row social-ctr">
+      <div class="col-md-12 text-center">
+        <ul class="social social-circle">
+          <li>
+            <a href="https://twitter.com/EsanjoHQ">
+              <i class="icon-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://facebook.com/Esanjo">
+              <i class="icon-facebook"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/Esanjo">
+              <i class="icon-github"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://medium.com/Esanjo">
+              <i class="icon-medium"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="">
+      <div class="col-md-12 text-center">
+        <p class="footer_text">
+          {{ dateFormat "2006" now}}
+          |
+          {{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}
+          under MIT license
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
