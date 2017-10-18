@@ -673,3 +673,16 @@ ul.topics ul li.active a {
 #notifyMe.loading .spinner{
   display: block;
 }
+
+a.github-link {
+    background: #f4f4f4;
+    color: #3f95e4;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+a.github-link:hover {
+  background: #f0f0f0;
+  text-decoration: none;
+}

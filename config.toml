@@ -10,6 +10,7 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
   disableSearch = true
   custom_css = ["/css/custom_1.css"]
+  editURL = "https://github.com/Esanjo/esanjo-way/edit/master/content/"
 
   # Meta
   author = ""
