@@ -1,12 +1,12 @@
 ---
-date: 2017-10-16
+date: 2018-01-28
 toc: true
 next: "/next/path"
 prev: "/prev/path"
-weight: 10
-title: "Esanjo's Leave, Hours and Remote Working Policies"
+weight: 3
+title: "How we do Leave"
 author: Omar Kassim
-metadesc: "Esanjo's Leave, Hours and Remote Working Policies"
+metadesc: "We have an unlimited leave policy. Take as many days off as you want."
 sections: ""
 categories: ""
 excerpt: "We have an unlimited leave policy. Take as many days off as you want."
@@ -33,7 +33,8 @@ If you're asked to work on a public holiday you will be paid an additional compe
 ## Working Hours
 We practice a five day, 0900 to 1800 work week, but in reality we work as hard as we need to in order to get stuff done. Work hard, play harder.
 
-## Flexible Hours & Working from Home
-We think it is incredibly important to come into your closest Esanjo office (more coming soon!) and interact with your fellow Esanjoers. We do however, understand that everyone has lives to live and may need flexibility around work.
+## Flexible Hours & Working Remote
+Given that we're building a remote organisation, it's up to you whether you'd like to head into Esanjo HQ (if you're based in the UAE and can do so!) or to a co-working / shared workspace.
 
-Flexible hours and working from home is an earned privilege. Once you've spent a few weeks at Esanjo, talk to your manager about turning this on.
+
+We think it is incredibly important to come into your closest Esanjo office (more coming soon!) and interact with your fellow Esanjoers. We do however, understand that everyone has lives to live and may need flexibility around work.

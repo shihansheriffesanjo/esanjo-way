@@ -1,8 +1,8 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Esanjo - We create, build and invest in beautiful technology businesses"
+title = "The Esanjo Way"
 languageCode = "en-us"
-theme = "hugo-elate-theme"
+theme = "hugo-esanjo"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -15,8 +15,8 @@ home = [ "HTML", "RSS", "JSON"]
   pluralizeListTitles = false
 
   # Meta
-  author = ""
-  description = ""
+  author = "The Esanjo Team"
+  description = "How we work at Esanjo"
   email = ""
   # Navigation
   [params.navigation]
@@ -46,8 +46,8 @@ home = [ "HTML", "RSS", "JSON"]
 
   # Hero section
   [params.hero]
-    title = "Welcome to Esanjo"
-    subtitle = 'We create, build and invest in beautiful technology businesses.'
+    title = "The Esanjo Way"
+    subtitle = 'How we work at Esanjo'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -94,4 +94,4 @@ home = [ "HTML", "RSS", "JSON"]
   # Footer section
   [params.footer]
     enable = true
-    copyright = 'Built with <i class="icon-heart2"></i></a> from Esanjo'
+    copyright = 'Built with <i class="icon-heart2"></i></a> at Esanjo'

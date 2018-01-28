@@ -5,7 +5,7 @@ next:  "/next/path"
 prev: "/prev/path"
 weight: 5
 title: "New Esanjo email setup"
-author: Ellanie Oray
+author: 
 metadesc: "Esanjo new email setup"
 sections: ""
 categories: ""

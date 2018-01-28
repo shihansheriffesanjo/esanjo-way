@@ -5,7 +5,7 @@ next: "/next/path"
 prev: "/prev/path"
 weight: 20
 title: "How We Handle Various Employee Issues"
-author: Ellanie Oray
+author: 
 metadesc: "Guidelines on employee issues"
 sections: ""
 categories: ""

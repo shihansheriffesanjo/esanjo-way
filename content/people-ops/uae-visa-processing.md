@@ -10,7 +10,8 @@ metadesc: "UAE Visa Processing"
 sections: ""
 categories: ""
 excerpt: "UAE Visa Processing"
-image: ""
+image:
+draft: true
 ---
 
 If you've been hired to work out of our HQ in Dubai, the most relevant operating entity will process an application for your UAE residence visa and your accompanying Emirates ID. You'll need to provide the following information to the Admin team:

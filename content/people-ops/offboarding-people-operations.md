@@ -5,7 +5,7 @@ next:  "/next/path"
 prev: "/prev/path"
 weight: 15
 title: "Our Offboarding Process"
-author: Ellanie Oray
+author: 
 metadesc: "Esanjo's offboarding procedures"
 sections: ""
 categories: ""

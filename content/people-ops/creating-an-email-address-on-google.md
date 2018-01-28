@@ -11,9 +11,10 @@ sections: ""
 categories: ""
 excerpt: "How to create an email address on G Suite"
 image: ""
+draft: true
 ---
 
-This is part of our Onboarding series.
+This guide needs to be updated to include G Suite's new processes.
 
 We use Google's G Suite for email and to collaborate on documents via Google Drive. This quick guide explains how and administrator can set up a new email address on G Suite.
 

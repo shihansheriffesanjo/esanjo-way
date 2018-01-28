@@ -5,7 +5,7 @@ next:  "/next/path"
 prev: "/prev/path"
 weight: 6
 title: "How To Use 1Password"
-author: Ellanie Oray
+author: 
 metadesc: "1Password Guide"
 sections: ""
 categories: ""

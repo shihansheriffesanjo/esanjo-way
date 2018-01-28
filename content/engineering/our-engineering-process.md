@@ -1,5 +1,5 @@
 ---
-date: 2017-11-16
+date: 2018-01-28
 toc: true
 next: "/next/path"
 prev: "/prev/path"
@@ -14,9 +14,6 @@ image: ""
 ---
 
 This document outlines how we work as an engineering team. Inspired by many, but more recently by [Basecamp's 6 week cycles][1] as described by their CEO, Jason Fried.
-
-## The Short Version
-We're moving our product development and engineering process away from two week sprints to longer four week cycles, with a greater focus on quality while broadly retaining  the concepts of agile development. In any given cycle, we expect to ship one or two Big Features, and between seven to ten Small Features.
 
 ## We work in four week cycles
 Every four weeks we start a new cycle of work. Each cycle contains two types of projects:
@@ -61,8 +58,6 @@ No. We don’t measure efficiency or compare actuals vs. estimates. We have four
 
 It is important that we don't allow ourselves to run to the end of a cycle before realising that we're out of time. We should always be looking at what's done, what's left and how much time is left. Our scope should always be changing, adjusting down if we're running low on time, or ramping up if we have more time. It's a fluid process that we're always negotiating with each other on. What isn’t fluid is our deadline — four weeks from when we started.
 
-### Stuff We're Still Discussing
-
-[Insert some stuff here]
+[This topic remains under development]
 
 [1]: https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.eevrue3x0

@@ -5,7 +5,7 @@ next:  "/next/path"
 prev: "/prev/path"
 weight: 4
 title: "Our Onboarding Process"
-author: Ellanie Oray
+author: 
 metadesc: "Esanjo's onboarding procedures"
 sections: ""
 categories: ""

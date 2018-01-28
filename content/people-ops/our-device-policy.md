@@ -4,12 +4,12 @@ toc: true
 next:  "/next/path"
 prev: "/prev/path"
 weight: 19
-title: "Esanjo's device issuance policies"
-author: Ellanie Oray
-metadesc: "Awesome Stuff for Work"
+title: "Equipment and devices"
+author:
+metadesc: "Equipment and Devices at Esanjo"
 sections: ""
 categories: ""
-excerpt: "Esanjo's device issuance policies"
+excerpt: "Equipment and Devices at Esanjo"
 image: ""
 draft: true
 ---

@@ -1,0 +1,37 @@
+<footer id="footer" role="contentinfo">
+  <!-- <a href="#" class="gotop js-gotop"><i class="icon-arrow-up2"></i></a> -->
+  <div class="container">
+    <div class="">
+      <div class="col-md-12 text-center">
+        <p class="footer_text">
+          {{ with .Site.Params.footer.copyright }}{{ . | markdownify }}{{ end }}
+          |
+          {{ dateFormat "2006" now}}
+
+        </p>
+      </div>
+    <div class="row social-ctr">
+      <div class="col-md-12 text-center">
+        <ul class="social social-circle">
+          <li>
+            <a href="https://twitter.com/EsanjoHQ">
+              <i class="icon-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/Esanjo">
+              <i class="icon-github"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.esanjo.com">
+              <i class="icon-medium"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    </div>
+  </div>
+</footer>

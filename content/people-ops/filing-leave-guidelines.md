@@ -5,7 +5,7 @@ next:  "/next/path"
 prev: "/prev/path"
 weight: 13
 title: "Guidelines on Esanjo's flexible work hours and unlimited leave"
-author: Ellanie Oray
+author: 
 metadesc: "On Esanjo's flexible work hours and unlimited leave"
 sections: ""
 categories: ""

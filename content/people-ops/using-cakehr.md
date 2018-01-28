@@ -5,7 +5,7 @@ next:  "/next/path"
 prev: "/prev/path"
 weight: 7
 title: "Using CakeHR"
-author: Ellanie Oray
+author:
 metadesc: "Using CakeHR at Esanjo"
 sections: ""
 categories: ""
@@ -14,6 +14,9 @@ image: ""
 draft: true
 ---
 
+CakeHR is the HR tool that we use at Esanjo. We use it to hold perosnal information on each individual, to handle on-boarding, off-boarding as well as to manage leave.
+
+[Adopted from our previous Bamboo HR guide. This needs work and review before it can be published.]
 
 ## How we use CakeHR:
 
@@ -27,8 +30,8 @@ draft: true
 
 ## To apply for your Flexible Leave:
 
-1. Log in to your Bamboo HR account
-2. When you log in, the first thing  you see is your own Bamboo HR profile home page
+1. Log in to your CakeHR account
+2. When you log in, the first thing  you see is your own CakeHR profile home page
 3. Click on the Request Time Off button
 4. When the Request Time Off page opens, click the dates that you would like to apply for flexible leave
 5. Choose flexible leave from the drop down menu
@@ -39,8 +42,8 @@ draft: true
 
 ## To apply for your Business Travel Leave:
 
-1. Log in to your Bamboo HR account
-2. When you log in, the first thing you will see is your own Bamboo HR profile homepage
+1. Log in to your CakeHR account
+2. When you log in, the first thing you will see is your own CakeHR profile homepage
 3. Click on the Request Time Off button
 4. When the Request Time Off page opens, click the dates that you would like to apply for Business Travel leave
 5. Choose business travel from the drop down menu
@@ -51,14 +54,14 @@ draft: true
 
 ## To see information regarding your employment at Esanjo:
 
-1. Log in to your Bamboo HR account
+1. Log in to your CakeHR account
 2. Click on My Info tab
 3. Click on Job
 
 
 ## To see or change your personal information:
 
-1. Log in to your Bamboo HR account
+1. Log in to your CakeHR account
 2. Click on My Info tab
 3. Click on Personal
 4. You may request to change the following information: Gender, Marital Status, Address, Contact details and Personal email address
@@ -66,10 +69,10 @@ draft: true
 
 ## To see a colleague's contact details:
 
-1. Log in to your Bamboo HR account
+1. Log in to your CakeHR account
 2. Click on Employees tab
 3. You will now see the list of Esanjo employees and their contact details
 
-You can also find more help and guide topics on Bamboo HR [here][1].
+You can also find more help and guide topics on CakeHR [here][1].
 
-[1]: https://help.bamboohr.com/hc/en-us/categories/203924448-BambooHR-For-Employees
+[1]:

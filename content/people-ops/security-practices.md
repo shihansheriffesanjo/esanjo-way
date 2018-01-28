@@ -4,9 +4,9 @@ toc: true
 next: "/next/path"
 prev: "/prev/path"
 weight: 17
-title: "Esanjo's Security Practices "
-author: Ellanie
-metadesc: "Esanjo's Security Practices "
+title: "Esanjo's Security Practices"
+author:
+metadesc: "Esanjo's Security Practices"
 sections: ""
 categories: ""
 excerpt: ""
