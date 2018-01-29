@@ -23,9 +23,9 @@ Apply for leave using CakeHR. Your reporting manager will approve your leave on 
 See Unlimited Leave.
 
 ## Legalese
-If you're based in the UAE, the UAE's labour law mandates that each individual is given thirty (30) days leave. If you sadly decide to leave the organisation, we unfortunately won't compensate you for any unused leave.
+If you're based in the UAE, the UAE's labour law mandates that each individual is to be given thirty (30) days leave. If you sadly decide to leave the organisation, we unfortunately won't compensate you for any unused leave. We also won't rollover any leave across financial years.
 
-We also won't rollover any leave. The exception is our current financial year, if you've got any unused leave, this will rollover in its entirety and will become part of your unlimited leave.
+If you're based elsewhere, unless prescribed otherwise by law, you have unlimited leave.
 
 ## Public Holidays
 If you're asked to work on a public holiday you will be paid an additional compensation multiplier of 0.75x on top of your compensation for that day.
