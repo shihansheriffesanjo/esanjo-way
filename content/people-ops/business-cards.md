@@ -17,7 +17,7 @@ image: ""
 
 ## How to get business cards!
 
-This is simple to start. We've [created a Google Sheet](https://goo.gl/3eQUGh0) that anyone with an esanjo.com address can access.
+This is simple to start. We've [created a Google Sheet](https://docs.google.com/spreadsheets/d/14pJBkaJoZIa_y4etsQDWFoE8uDa_deVKeZi9oGcloWU/) that anyone with an esanjo.com address can access.
 
 1. Look for your name on the list, or add it to the end.
 2. Choose the background colour of your business card. We've got a list of colours and hex values in the bottom left corner.

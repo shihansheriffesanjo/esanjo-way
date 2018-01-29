@@ -20,7 +20,7 @@ Our official language is English, but that doesn't mean that we frown upon the u
 ## Slack
 Slack is pretty much the lifeblood of our business. Over the years we've worked with email, chat and a bunch of other tools (HipChat nostalgia) and at this time believe that we've found a great balance by adopting Slack fairly quickly after it came out.
 
-We strongly encourage the use of public channels over private messages. Each major team or function has their own public channels and more will be created when required or requested! We strive hard not to have any private channels as we've found that this creates more communication overhead and doesn't live by our transparency value. Whilst it may seem awkward at first to discuss everything out in the open, it means that anyone can observe and participate in a conversation should they wish to do so. We've seem incredible ideas comes from individuals who wouldn't necessarily have spoken up purely because they weren't aware or weren't given the opportunity to do so.
+We strongly encourage the use of public channels over private messages. Each major team or function has their own public channels and more will be created when required or requested! We strive hard not to have any private channels as we've found that this creates more communication overhead and doesn't live by our transparency value. Whilst it may seem awkward at first to discuss everything out in the open, it means that anyone can observe and participate in a conversation should they wish to do so. We've seen incredible ideas comes from individuals who wouldn't necessarily have spoken up purely because they weren't aware or weren't given the opportunity to do so.
 
 Be open, stay open and things will work out. Mostly.
 
