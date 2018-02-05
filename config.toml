@@ -94,4 +94,4 @@ home = [ "HTML", "RSS", "JSON"]
   # Footer section
   [params.footer]
     enable = true
-    copyright = 'Built with <i class="icon-heart2"></i></a> at Esanjo'
+    copyright = 'with <i class="icon-heart2"></i></a> at Esanjo'
