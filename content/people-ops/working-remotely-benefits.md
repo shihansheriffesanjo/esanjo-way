@@ -58,5 +58,5 @@ It’s important that all of us keep fit and have a solid work, life and play ba
 
 We're providing a budget of **USD 30** to cover a monthly gym or sports club membership for Colombo. Please upload your provider's invoice each month and we'll process a claim against it. We'll cover a maximum amount of USD 30 each month.
 
-## Hot Desks
+### Hot Desks
 We understand that sometimes you may want to work out of a space that is remote but isn't home. In Colombo, you're more than welcome to go to [Likuid Spaces](https://www.facebook.com/LikuidSpaces/) at anytime that you'd like to and use a hot desk for a few hours or for the entire day.
