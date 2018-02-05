@@ -17,6 +17,8 @@ image: ""
 ## One Golden Rule
 We have one golden rule about spending at Esanjo, please treat company money as if it were your own. You can claim anything back that is a company related expense (i.e: travel, meetings, calls and so on - please keep a receipt for everything!). Anything above a USD 50 limit will need pre-approval from the Finance team.
 
+If you need pre-approval or just want to check if an item of equipment is reimbursable for your department upload your quotes to this folder https://drive.google.com/drive/folders/1-HHsuETumhJ51veSK7BOhnMbN_ZMyito?usp=sharing and add the details to the sheet you’ll find there. Please number your quotes/ receipts as per the sheet and don’t forget to ping us on Slack once you’re done!
+
 ## How do I make a claim?
 We've tried to make this easy and keep it simple to get it up and running.
 
