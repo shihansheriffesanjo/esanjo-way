@@ -26,7 +26,7 @@ Every month, please create a new folder using the naming convention "Month Year"
 
 Please upload any claims by the 24th of every month ping the @financeall team in the [#finance](https://esanjo.slack.com/messages/C661QBKM3) Slack channel with a quick heads up. Any claims uploaded after the 24th will be settled in the following month.
 
-## Requesting Pre-approvals
+## Requesting pre-approvals
 
 If you need pre-approval for an expense upload your quotes to this folder [Pre-approvals](https://drive.google.com/drive/folders/1-HHsuETumhJ51veSK7BOhnMbN_ZMyito?usp=sharing) and add the details to the sheet you’ll find there. Please number your quotes/ receipts as per the sheet and let us know that you've done so.
 
