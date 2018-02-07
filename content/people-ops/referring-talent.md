@@ -15,27 +15,24 @@ image: ""
 
 ## Refer Talent to Esanjo
 
-[image][1]
+![1]
 
 We're always on the look out for great talent and we've put together a nice scheme to reward any internal and external references who we end up hiring.
 
 We'll pay $2000 for Engineering hires and $1000 for hires into other teams.
 
-
 ## External References
+If you'd like to be part of our referral programme, drop us a line with the details of the individual that you'd like to refer to this [email address][2] and if we end up hiring them, we'll reach out and co-ordinate your reward.
 
-If you want to be part of our bounty scheme it's simple, drop us an email with your reference candidate to this [email](job.929b5@esanjo.recruitee.com) and if we end up hiring your reference, we'll be in touch and coordinate the settlement.
-
-As we're building a remote team, we're looking for amazing individuals from anywhere in the world!
+As we're building a globally remote team, we're looking for amazing individuals anywhere in the world!
 
 ## Internal References
-
-Please refer anyone that you think may be interested to [Careers][2] and drop a message to Aamir!
+Please refer anyone that you think may be interested to [Careers][3] and drop a message to @aamir on Slack!
 
 ## The Fine Print
-
-We do settlements once the individual hired has completed three months with Esanjo. We'll be in touch once your reference has been successfully hired.
+We pay out rewards once a hired individual has completed three months at Esanjo.
 
 
 [1]:/images/2016/11/Refer-Talent-to-Esanjo.png
-[2]:https://careers.esanjo.com
+[2]:mailto:job.929b5@esanjo.recruitee.com
+[3]:https://careers.esanjo.com
