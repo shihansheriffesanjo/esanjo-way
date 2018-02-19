@@ -4,7 +4,7 @@
   background-attachment: fixed;
   position: relative;
   width: 100%;
-  background-color: #50049B;
+  background-color: #50049b;
   color: #fff;
   overflow: hidden;
   position: relative;
@@ -311,7 +311,7 @@ ul.topics li.visible > a {
 }
 
 ul.topics ul li.active a {
-  color: #50049B;
+  color: #50049b;
 }
 
 .main-ctr h1 {
@@ -328,7 +328,7 @@ ul.topics ul li.active a {
 }
 
 #breadcrumbs .links a {
-  color: #50049B;
+  color: #50049b;
 }
 
 .searchbox {
@@ -510,7 +510,7 @@ ul.topics ul li.active a {
   display: inline-block;
   vertical-align: middle;
 }
-.toggle-sidebar .toggle-text{
+.toggle-sidebar .toggle-text {
   vertical-align: middle;
   margin-left: 10px;
   display: none;
@@ -522,8 +522,7 @@ ul.topics ul li.active a {
 .left-ctr {
   position: relative;
 }
-.right-ctr{
-
+.right-ctr {
 }
 .social.social-circle i {
   -webkit-transition: all 0.5s;
@@ -535,12 +534,69 @@ ul.topics ul li.active a {
   color: #ffdf00;
   font-size: 20px;
 }
+#footer .col-md-6 {
+  position: relative;
+}
+.block-message {
+  position: absolute;
+  top: 100%;
+  font-size: 14px;
+  padding-top: 5px;
+  color: #ffdf00;
+}
+.spinner {
+  position: absolute;
+  color: #555;
+  right: 0px;
+  top: 50%;
+  margin-top: -10px;
+  right: 10px;
+  -webkit-animation: fa-spin 2s infinite linear;
+  animation: fa-spin 2s infinite linear;
+  display: none;
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
 
+#notifyMe.loading .spinner {
+  display: block;
+}
+
+a.github-link {
+  background: #f4f4f4;
+  color: #50049b;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+a.github-link:hover {
+  background: #f0f0f0;
+  text-decoration: none;
+}
 @media (max-width: 992px) {
   .container {
     width: 100%;
   }
-  #fh5co-header{
+  #fh5co-header {
     margin-top: 20px;
   }
   .navbar-ctr {
@@ -571,108 +627,56 @@ ul.topics ul li.active a {
   .menu-open .right-ctr {
     opacity: 0.2;
   }
-  #footer .col-md-6{
+  #footer .col-md-6 {
     width: 80%;
   }
-  .left-ctr{
+  .left-ctr {
     max-width: 60%;
   }
-
 }
 @media (max-width: 768px) {
-  #fh5co-header{
+  #fh5co-header {
     margin-top: 0px;
   }
 
-  .left-ctr{
+  .left-ctr {
     max-width: 60%;
   }
 }
 @media (max-width: 600px) {
-  .main-ctr{
+  .main-ctr {
     flex-direction: column;
   }
-  .left-ctr{
+  .left-ctr {
     max-width: 100%;
   }
   .menu-open .left-ctr {
     box-shadow: none;
   }
-  .menu-open .toggle-sidebar{
+  .menu-open .toggle-sidebar {
     position: relative;
     left: 0;
   }
-  .menu-open .right-ctr{
+  .menu-open .right-ctr {
     display: none;
   }
-  .left-ctr{
+  .left-ctr {
     margin-bottom: 20px;
   }
   .main-ctr .col-md-8 {
     border: none;
   }
-  .toggle-sidebar .toggle-text{
+  .toggle-sidebar .toggle-text {
     display: inline-block;
   }
-  h2{
+  h2 {
     font-size: 28px;
   }
-}
-#footer .col-md-6{
-  position: relative;
-}
-.block-message {
-    position: absolute;
-    top: 100%;
+  .main-ctr.container {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  a.github-link {
     font-size: 14px;
-    padding-top: 5px;
-    color: #ffdf00;
-}
-.spinner{
-  position: absolute;
-  color:#555;
-  right:0px;
-  top:50%;
-  margin-top: -10px;
-  right:10px;
-  -webkit-animation: fa-spin 2s infinite linear;
-  animation: fa-spin 2s infinite linear;
-  display: none;
-}
-@-webkit-keyframes fa-spin {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
   }
-  100% {
-    -webkit-transform: rotate(359deg);
-    transform: rotate(359deg);
-  }
-}
-@keyframes fa-spin {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(359deg);
-    transform: rotate(359deg);
-  }
-}
-
-#notifyMe.loading .spinner{
-  display: block;
-}
-
-a.github-link {
-    background: #f4f4f4;
-    color: #50049B;
-    font-size: 16px;
-    padding: 10px;
-    border-radius: 5px;
-    text-decoration: none;
-}
-a.github-link:hover {
-  background: #f0f0f0;
-  text-decoration: none;
 }
