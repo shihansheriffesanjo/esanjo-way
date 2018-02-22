@@ -1,3 +1,19 @@
+---
+date: 2018-02-22
+toc: true
+next: "/next/path"
+prev: "/prev/path"
+weight: 5
+title: "Updating your status"
+author: Sushila De Silva
+metadesc: "How we update our status"
+sections: ""
+categories: ""
+excerpt: "Updating your status"
+image: ""
+---
+
+
 **Updating your status**
 
 If you’re going on holiday then we *certainly* don’t want to disturb you! Once it’s been approved we’ll be alerted on Slack throughout the duration of your leave. Slack lets you change your status so before you leave on holiday you can update that as well if you remember. This will stop us accidentally tagging you when you’re hiking in the Alps, exploring Machu Picchu or relaxing on the beach in Bali.
