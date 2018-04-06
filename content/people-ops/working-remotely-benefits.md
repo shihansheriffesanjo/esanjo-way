@@ -15,7 +15,7 @@ image: ""
 
 # We're Remote (Mostly)
 
-Esanjo is primarily a remote organisation with a single HQ location out of Dubai. Our offices are a bit of an overhang from our last venture, and as we like 'em we've decided to leave them as is. Whilst we don't want to explicitly rule anything out, we don''t see ourselves setting up offices anywhere else anytime soon.
+Esanjo is primarily a remote organisation with a single HQ location out of Dubai. Our offices are a bit of an overhang from our last venture, and as we like 'em we've decided to leave them as is. Whilst we don't want to explicitly rule anything out, we don't see ourselves setting up offices anywhere else anytime soon.
 
 ## Our Rationale
 
