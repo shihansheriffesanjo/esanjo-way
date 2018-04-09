@@ -15,6 +15,8 @@ image: ""
 
 #Our Recruitment Process
 
+This is how we recruit incredible people to the Esanjo team. This will eventually layout our entire recruitment process and is meant to be a guide for our internal People Ops team. At this point it is a work in progress and we will keep adding to it until it is complete.
+
 ##The phone screen 
 
 This is our first contact with the candidate. The questions are simple but we look at more than just the answers themselves. The way in which the candidates answer is just as important. Are the answers consistent? Have they made an effort to prepare for a possible phone screen?, Did they do any in-depth checks on the job role and the company?, What questions do they ask? How enthusiastic are they? Do they have the correct attitude?
