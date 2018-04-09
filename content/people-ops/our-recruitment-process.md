@@ -47,7 +47,7 @@ Find out why they are leaving their present job. It will help us understand what
 
 When
 
-We need to know when the candidates can start work. Are they immediate available or do they have a notice period at their present companies? The notice period is usually one month but this can differ from company to company. A longer notice period may affect a candidates application especially if we need to fill the position as soon as possible. On the other hand incredible people are not too easy to find so if we are in a position to wait we will. 
+We need to know when the candidates can start work. Are they available immediately? Do they have a notice period in their current role? The notice period tends to be one month but this can differ from company to company. A longer notice period may affect a candidates application especially if we need to fill the position as soon as possible. On the other hand incredible people are not easy to find. Don't let the length of the notice period deter your judgment.
 
 This information lets us fix a start date in the event that the candidate is offered the position.
 
@@ -58,6 +58,10 @@ This is a very important question. We need a clear idea of a candidate’s expec
 Even candidates with absolutely no work experience should have some idea of how much the job pays when they apply. If nothing else they should at least know how much they need to survive.
 
 We do not reveal our remuneration scales or budgets to candidates. The purpose of this question is not to negotiate but to find out exactly how much the candidate really wants. It also lets us know how the candidates value themselves given their skills, training and experience. 
+
+Remote working experience
+
+Does the candidate have any experience working remotely? If they do, ask them to share their experience. How did they adapt to the challenges? If they don’t have experience ask them how they plan to adapt to working from home. Remote job roles are increasing but some people don’t realise that this literally means that they won’t be reporting in to an office. Remember there is no ‘right’ answer to this question. This question clarifies remote working to the candidate and their answers give us an idea of how they will adapt if they’ve not done it before.
 
 Extras
 
