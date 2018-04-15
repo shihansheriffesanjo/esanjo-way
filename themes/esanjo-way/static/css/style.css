@@ -662,6 +662,15 @@ a.sectionHeader {
     font-size: 0.88rem;
     color: #6b7797;
   }
+  .navWrapper a {
+    font-size: 0.8236rem;
+  }
+  a.sectionHeader {
+    font-size: 0.647rem;
+  }
+  .navWrapper a {
+    padding: 10px 0;
+  }
 }
 @media screen and (min-width: 1440px) {
   .mainTitle {

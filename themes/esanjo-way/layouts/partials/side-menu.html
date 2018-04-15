@@ -111,7 +111,7 @@
         {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
         {{if .Params.alwaysopen}}parent{{end}}
         ">
-          <a href="{{.RelPermalink}}" class="sectionHeader">
+          <a class="sectionHeader">
             {{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}
             {{ if $showvisitedlinks}}
               <i class="fa fa-check read-icon"></i>
