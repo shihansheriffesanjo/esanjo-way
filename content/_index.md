@@ -6,12 +6,14 @@ prev: "/prev/path"
 weight: 1
 title: "The Esanjo Way"
 author: Omar Kassim
+authorAvatar: omar
+authorRole: "Cheif Executive Officer Esanjo"
 metadesc: "How we work at Esanjo"
 sections: ""
 categories: ""
 excerpt: "How we work at Esanjo"
 image: ""
-banner: '/images/projects.jpg'
+banner: '/images/home-graphics.png'
 ---
 
 # How we work at Esanjo
@@ -36,7 +38,7 @@ If all of this sound like a place where you’d like to work, we're usually hiri
 
 Omar Kassim
 
-
+<hr/>
 ## Acknowledgements
 
 Thank you to the GitLab Team for inspiring us with [their incredible handbook](https://about.gitlab.com/handbook/)) as well as [the team at Clef](https://github.com/clef/handbook) for bringing structure to our thought process.

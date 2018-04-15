@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "Our Core Values described"
 image: ""
+emoji: "🙌"
 ---
 
 ### What is this?
