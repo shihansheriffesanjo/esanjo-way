@@ -148,7 +148,7 @@ body {
   font-family: 'Montserrat', Arial, sans-serif;
   font-weight: 400;
   font-size: 17px;
-  line-height: 1.5;
+  line-height: 1.75;
   color: #6f718e;
   background: #fff;
   height: 100%;
@@ -240,7 +240,10 @@ h6 {
   margin-right: 18px;
   text-decoration: none;
 }
-
+.redBtn:hover {
+  background: #c32f3f;
+  color: #fff;
+}
 .headerRightCtr {
   display: flex;
   align-items: center;
@@ -281,6 +284,8 @@ h6 {
 }
 .blogHeaderTitle {
   color: #172344;
+  line-height: 1;
+  font-size: 1rem;
 }
 .headerBackLink {
   font-size: 0.8235rem;
@@ -675,5 +680,34 @@ a.sectionHeader {
 @media screen and (min-width: 1440px) {
   .mainTitle {
     margin-top: 100px;
+  }
+}
+
+/* Social Links */
+@media screen and (min-width: 992px) {
+  .socialCtr {
+    position: fixed;
+    bottom: 35px;
+    right: 35px;
+  }
+  .share-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #e4e6ed;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 50%;
+    background: #fff;
+    color: #4a5274;
+    text-decoration: none;
+  }
+  .share-btn:hover{
+    background: #4a5274;
+    color: #fff;
+  }
+  .share-btn:focus{
+    color: #4a5274;
+    background: #fff;
   }
 }
