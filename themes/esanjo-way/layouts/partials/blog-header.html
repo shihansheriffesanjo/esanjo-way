@@ -4,9 +4,9 @@
     {{if not .IsHome}}
       <div class="blogDetailsHeader">
         <div class="blogHeaderTitle">{{ .Title }}</div>
-        {{ if .Next}}
-          <a class="headerBackLink" href="{{.Next.Permalink}}">Back to
-            {{.Next.Title}}</a>
+        {{ if .NextInSection}}
+          <a class="headerBackLink" href="{{.NextInSection.Permalink}}">Back to
+            {{.NextInSection.Title}}</a>
         {{end}}
       </div>
     {{ end }}

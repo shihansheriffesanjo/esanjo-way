@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "https://way.esanjo.com"
 title = "Esanjo Way"
 languageCode = "en-us"
 theme = "esanjo-way"
