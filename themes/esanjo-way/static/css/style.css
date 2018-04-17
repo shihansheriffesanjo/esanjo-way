@@ -145,7 +145,7 @@ html {
 }
 
 body {
-  font-family: 'Montserrat', Arial, sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
   font-weight: 400;
   font-size: 17px;
   line-height: 1.75;
@@ -220,6 +220,12 @@ h6 {
 
 .blogDetailsHeader {
   display: none;
+}
+.blogHeader .authorCtr {
+  display: none;
+}
+.blogHeader.sticky .authorCtr {
+  display: flex;
 }
 @media screen and (min-width: 768px) {
   .blogHeader {
@@ -582,7 +588,7 @@ h6 {
   align-items: center;
   max-width: 1000px;
   margin: 0 auto;
-  display: none;
+  display: flex;
 }
 
 .authorAvatar {
@@ -684,6 +690,9 @@ h6 {
     max-width: 1000px;
     margin: 0 auto;
   }
+  .mainContentCtr .authorCtr{
+    padding: 25px 65px;
+  }
   .mainContent p {
     font-size: 1rem;
   }
@@ -704,7 +713,6 @@ h6 {
     font-size: 0.88rem;
     color: #6b7797;
   }
-
 }
 @media screen and (min-width: 1440px) {
   .mainTitle {
