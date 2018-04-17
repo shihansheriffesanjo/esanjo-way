@@ -98,7 +98,11 @@
       {{ end }}
     </div>
   </nav>
-
+  <div class="footerSidebar">
+    <ul class="socialMobile">{{ partial "share-links.html" .}}</ul>
+    <a href="https://esanjo.com" class="footerLink">www.esanjo.com</a>
+    <div class="footerCopyright">&copy; Esanjo {{ now.Format "2006"}}</div>
+  </div>
   <!-- templates -->
   {{ define "section-tree-nav" }}
     {{ $showvisitedlinks := .showvisitedlinks }}
@@ -111,12 +115,12 @@
         {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
         {{if .Params.alwaysopen}}parent{{end}}
         ">
-          <a class="sectionHeader">
+          <div class="sectionHeader">
             {{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}
             {{ if $showvisitedlinks}}
               <i class="fa fa-check read-icon"></i>
             {{ end }}
-          </a>
+          </div>
           {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
           {{ if ne $numberOfPages 0 }}
             <ul>
@@ -168,5 +172,8 @@ $(function () {
   document.querySelector('.toggle-button').addEventListener('click', function () {
     slideout.toggle();
   });
+  window.onresize = function(event) {
+  if(window.innerWidth>=992) slideout.close();
+};
 });
 </script>
