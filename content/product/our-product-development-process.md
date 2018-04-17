@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "Our Product Development Process"
 image: ""
+banner: '/images/product-development.svg'
 ---
 
 ## Overview

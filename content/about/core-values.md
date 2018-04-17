@@ -11,6 +11,8 @@ sections: ""
 categories: ""
 excerpt: "Our Core Values described"
 image: ""
+emoji: "🙌"
+banner: '/images/our-core-values.svg'
 ---
 
 ### What is this?

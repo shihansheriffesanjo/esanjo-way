@@ -1,0 +1,29 @@
+<!-- Social Share Button HTML -->
+
+<!-- Twitter -->
+{{ if .Site.Params.socialShareTwitter | default true}}
+<li>
+  <a href="//twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}&amp;via=esanjoHQ" target="_blank" class="share-btn twitter">
+    <i class="fab fa-twitter"></i>
+    </a>
+</li>
+{{ end }}
+
+<!-- Facebook -->
+{{ if .Site.Params.socialShareFacebook | default true}}
+
+<li>
+  <a href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" class="share-btn facebook">
+    <i class="fab fa-facebook-f"></i>
+    </a>
+</li>
+{{ end }}
+
+<!-- Email -->
+{{ if .Site.Params.socialShareEmail | default true}}
+<li>
+  <a href="mailto:?subject=Check out this post by {{ .Params.author }}&amp;body={{ .Permalink }}" target="_blank" class="share-btn email">
+    <i class="fa fa-envelope"></i>
+  </a>
+</li>
+{{ end }}

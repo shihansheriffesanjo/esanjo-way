@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "Getting yourself business cards"
 image: ""
+banner: '/images/custom-businees-card.svg'
 ---
 
 

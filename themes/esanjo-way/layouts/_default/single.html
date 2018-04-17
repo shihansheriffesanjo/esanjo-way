@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js"> <![endif]-->
+<html>
+  <head>
+    {{ partial "header.html" .}}
+  </head>
+  <body>
+    <div class="sideMenu slideout-menu" id="menu">{{ partial "side-menu.html" .}}</div>
+    <div class="rightCtr slideout-panel" id="panel">
+      {{ partial "blog-header.html" .}}
+      <div class="mainContentCtr">
+        <div class="mainTitle">
+          {{ if .Params.emoji }}
+            <div class="emojiCtr">{{.Params.emoji}}</div>
+          {{end}}
+          <div class="mainTitleWrapper">
+            <h1>{{.Title}}</h1>
+            <div class="blogMeta">{{.ReadingTime}}
+              min read - Last updated
+              {{dateFormat "Jan 2, 2006" .Lastmod}}</div>
+          </div>
+        </div>
+        {{if .Params.banner}}
+          <div class="headerImageCtr" style="background-image:url({{.Params.banner}})"></div>
+        {{end}}
+        {{if and .Params.author .Params.authorAvatar}}
+          <div class="authorCtr">
+            {{if .Params.authorAvatar}}
+              <div class="authorAvatar {{.Params.authorAvatar}}"></div>
+            {{end}}
+            <div class="authorDetails">
+              <div class="authorName">{{.Params.author}}</div>
+              {{if .Params.authorRole}}
+                <div class="authorRole">{{.Params.authorRole}}</div>
+              {{end}}
+            </div>
+          </div>
+        {{end}}
+        <div class="mainContent" id="mainContent">
+          {{ .Content}}
+          {{ if and .IsPage .Site.Params.editURL }}
+          {{ $File := .File }}
+          {{ $Site := .Site }}
+          {{with $File.Path }}
+            <div id="top-github-link">
+              <a class="github-link" href="{{ $Site.Params.editURL }}{{ replace $File.Dir " \\" " /" }}{{ $File.LogicalName }}" target="blank">
+                <i class="fas fa-code-branch"></i>
+                Anyone can contribute by editing this page
+              </a>
+            </div>
+          {{ end }}
+        {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ partial "footer.html" .}}
+  </body>
+</html>

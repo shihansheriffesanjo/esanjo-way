@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "Creating your Email Signature"
 image: ""
+banner: '/images/email-signatures.svg'
 ---
 
 

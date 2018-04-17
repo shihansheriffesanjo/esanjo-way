@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "We're a remote organisation, mostly"
 image: ""
+banner: '/images/working-remotely.svg'
 ---
 
 # We're Remote (Mostly)

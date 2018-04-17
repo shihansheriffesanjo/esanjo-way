@@ -10,7 +10,7 @@ metadesc: "Our Engineering Process"
 sections: ""
 categories: ""
 excerpt: "Our Engineering Process"
-image: ""
+banner: '/images/engineering.svg'
 ---
 
 This document outlines how we work as an engineering team. Inspired by many, but more recently by [Basecamp's 6 week cycles][1] as described by their CEO, Jason Fried.

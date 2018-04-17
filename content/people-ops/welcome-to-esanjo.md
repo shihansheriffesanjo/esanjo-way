@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "A massive welcome to Esanjo"
 image: ""
+banner: '/images/esanjo-way-home.svg'
 ---
 
 This is part of our Onboarding series.

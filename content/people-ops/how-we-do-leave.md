@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "We have an unlimited leave policy. Take as many days off as you want."
 image: ""
+banner: '/images/how-we-do-leave.svg'
 ---
 
 ## Unlimited Leave

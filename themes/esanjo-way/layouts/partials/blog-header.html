@@ -1,0 +1,60 @@
+<div class="blogHeader {{if .IsHome}} home {{end}}" id="blogHeader">
+  <div class="headerLeftCtr">
+    <a href="/" class="logoIcon"></a>
+    {{if not .IsHome}}
+      <div class="blogDetailsHeader">
+        <div class="blogHeaderTitle">{{ .Title }}</div>
+        {{ if .NextInSection}}
+          <a class="headerBackLink" href="{{.NextInSection.Permalink}}">Back to
+            {{.NextInSection.Title}}</a>
+        {{end}}
+      </div>
+    {{ end }}
+    {{if .Params.author}}
+      <div class="authorCtr">
+        {{if .Params.authorAvatar}}
+          <div class="authorAvatar {{.Params.authorAvatar}}"></div>
+        {{end}}
+        <div class="authorDetails">
+          <div class="authorName">{{.Title}}</div>
+          {{if .Params.author}}
+            <div class="authorRole">{{.Params.author}}</div>
+          {{end}}
+        </div>
+      </div>
+    {{end}}
+  </div>
+  <div class="headerRightCtr">
+    <a class="redBtn" href="https://careers.esanjo.com">Join Us</a>
+    <i class="fas fa-bars menuIcon toggle-button"></i>
+  </div>
+</div>
+<script>
+  $(function () {
+    // When the user scrolls the page, execute myFunction
+    window.onscroll = function () {
+      scrollFunc()
+    };
+
+    // Get the header
+    var header = document.getElementById("mainContent");
+    var blogHeader = document.getElementById("blogHeader");
+
+    // Get the offset position of the navbar
+    var sticky = header.offsetTop;
+
+    // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+    function scrollFunc() {
+      if (window.pageYOffset > 5) {
+        blogHeader.classList.add('scrolling')
+      } else {
+        blogHeader.classList.remove('scrolling')
+      }
+      if (window.pageYOffset >= sticky) {
+        blogHeader.classList.add("sticky");
+      } else {
+        blogHeader.classList.remove("sticky");
+      }
+    }
+  });
+</script>
