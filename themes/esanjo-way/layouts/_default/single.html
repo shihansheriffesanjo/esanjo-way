@@ -12,6 +12,17 @@
     <div class="rightCtr slideout-panel" id="panel">
       {{ partial "blog-header.html" .}}
       <div class="mainContentCtr">
+        <div class="mainTitle">
+          {{ if .Params.emoji }}
+            <div class="emojiCtr">{{.Params.emoji}}</div>
+          {{end}}
+          <div class="mainTitleWrapper">
+            <h1>{{.Title}}</h1>
+            <div class="blogMeta">{{.ReadingTime}}
+              min read - Last updated
+              {{dateFormat "Jan 2, 2006" .Lastmod}}</div>
+          </div>
+        </div>
         {{if .Params.banner}}
           <div class="headerImageCtr" style="background-image:url({{.Params.banner}})"></div>
         {{end}}
@@ -29,17 +40,6 @@
           </div>
         {{end}}
         <div class="mainContent" id="mainContent">
-          <div class="mainTitle">
-            {{ if .Params.emoji }}
-              <div class="emojiCtr">{{.Params.emoji}}</div>
-            {{end}}
-            <div class="mainTitleWrapper">
-              <h1>{{.Title}}</h1>
-              <div class="blogMeta">{{.ReadingTime}}
-                min read - Last updated
-                {{dateFormat "Jan 2, 2006" .Lastmod}}</div>
-            </div>
-          </div>
           {{ .Content}}
           {{ if and .IsPage .Site.Params.editURL }}
           {{ $File := .File }}
