@@ -1,6 +1,8 @@
 <div class="sideMenuWrapper">
   <div id="search-overlay" class="search-overlay"></div>
-  <img src='{{ "images/close.svg" | relURL }}' class="sidemenuClose" alt="Close Icon" id="sidemenuClose"/>
+  <div class="sidemenuClose" id="sidemenuClose">
+    <img src='{{ "images/close.svg" | relURL }}' alt="Close Icon"/>
+  </div>
   <div class="sideMenuHeader">
     <a class="logoIcon" href="/"></a>
     <div class="sideMenuTitleCtr">
@@ -100,8 +102,8 @@
     </div>
   </nav>
   <div class="footerSidebar">
-    <ul class="socialMobile">{{ partial "share-links.html" .}}</ul>
-    <a href="https://esanjo.com" class="footerLink">www.esanjo.com</a>
+    <ul class="socialMobile">{{ partial "social-links.html" .}}</ul>
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/></a>
     <div class="footerCopyright">&copy; Esanjo
       {{ now.Format "2006"}}</div>
   </div>
@@ -168,7 +170,7 @@
 <script>
 $(function () {
   // Handler for .ready() called.
-  var slideout = new Slideout({'panel': document.getElementById('panel'), 'menu': document.getElementById('menu'), 'padding': 320, 'tolerance': 70});
+  var slideout = new Slideout({'panel': document.getElementById('panel'), 'menu': document.getElementById('menu'), 'padding': document.documentElement.clientWidth, 'tolerance': 70});
 
   // Toggle button
   document.querySelector('.toggle-button').addEventListener('click', function () {
@@ -178,7 +180,7 @@ $(function () {
     slideout.close();
   });
   window.onresize = function (event) {
-    if (window.innerWidth >= 992)
+    if (window.innerWidth >= 768)
       slideout.close();
     };
 });

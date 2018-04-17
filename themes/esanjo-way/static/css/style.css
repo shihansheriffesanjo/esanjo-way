@@ -291,7 +291,7 @@ h6 {
   color: #6b7797;
   text-decoration: none;
 }
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 768px) {
   .blogHeader {
     left: 320px;
   }
@@ -347,10 +347,13 @@ h6 {
   font-size: 20px;
 }
 .sidemenuClose {
-  width: 15px;
   position: absolute;
-  right: 30px;
-  top: 30px;
+  right: 20px;
+  top: 20px;
+  padding: 10px;
+}
+.sidemenuClose img {
+  width: 15px;
 }
 .siteTitle {
   font-size: 1.35rem;
@@ -366,7 +369,7 @@ h6 {
   position: fixed;
   top: 0;
   bottom: 0;
-  width: 320px;
+  width: 100%;
   min-height: 100vh;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
@@ -403,13 +406,13 @@ h6 {
   display: block;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 768px) {
   .slideout-panel {
     margin-left: 320px;
   }
-
   .slideout-menu {
     display: block;
+    width: 320px;
   }
   .sideMenu .logoIcon {
     display: block;
@@ -645,6 +648,20 @@ h6 {
 .mainTitle {
   display: none;
 }
+@media screen and (min-width: 768px) {
+  .navWrapper a {
+    font-size: 0.8236rem;
+  }
+  a.sectionHeader {
+    font-size: 0.647rem;
+  }
+  .navWrapper a {
+    padding: 10px 15px;
+  }
+  .navWrapper a:hover {
+    background: #2d5ebe;
+  }
+}
 @media screen and (min-width: 992px) {
   .mainTitle {
     display: flex;
@@ -687,18 +704,7 @@ h6 {
     font-size: 0.88rem;
     color: #6b7797;
   }
-  .navWrapper a {
-    font-size: 0.8236rem;
-  }
-  a.sectionHeader {
-    font-size: 0.647rem;
-  }
-  .navWrapper a {
-    padding: 10px 15px;
-  }
-  .navWrapper a:hover {
-    background: #2d5ebe;
-  }
+
 }
 @media screen and (min-width: 1440px) {
   .mainTitle {
@@ -713,21 +719,9 @@ h6 {
     bottom: 20px;
     right: 20px;
   }
-  .share-btn {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: solid 1px #e4e6ed;
-    padding: 10px;
-    margin: 10px 0;
-    border-radius: 50%;
-    background: #fff;
-    color: #4a5274;
-    text-decoration: none;
-  }
   .share-btn:hover {
-    background: #4a5274;
-    color: #fff;
+    background: #fff;
+    color: #1f50ae;
   }
   .share-btn:focus {
     color: #4a5274;
@@ -768,9 +762,15 @@ h6 {
   width: 40px;
   height: 40px;
 }
+.github-link {
+  padding: 10px;
+  margin: 20px 0;
+  background: #f4f4f4;
+  border-radius: 2px;
+  display: inline-block;
+}
 @media screen and (min-width: 992px) {
   .socialMobile {
-    display: none;
   }
 }
 @media screen and (min-width: 1440px) {
