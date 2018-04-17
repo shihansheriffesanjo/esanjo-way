@@ -367,7 +367,9 @@ h6 {
   color: #fff;
   text-decoration: none;
 }
-
+.siteTitle:hover {
+  color: #fff;
+}
 .siteSubTitle {
   font-size: 0.8235rem;
   font-weight: 400;
