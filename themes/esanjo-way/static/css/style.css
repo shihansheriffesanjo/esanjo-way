@@ -604,10 +604,10 @@ h6 {
   font-size: 0.765rem;
 }
 .mainContentCtr {
-  padding-top: 90px;
+  padding-top: 30px;
 }
 .mainContent {
-  padding: 25px 65px;
+  padding: 25px;
   font-size: 0.8235rem;
 }
 
@@ -659,7 +659,11 @@ h6 {
   .headerImageCtr {
     height: 500px;
   }
+  .mainContentCtr {
+    padding-top: 90px;
+  }
   .mainContent {
+    padding: 25px 65px;
     max-width: 1000px;
     margin: 0 auto;
   }
