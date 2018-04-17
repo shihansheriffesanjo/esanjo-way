@@ -346,7 +346,12 @@ h6 {
 .sideMenuTitleCtr i {
   font-size: 20px;
 }
-
+.sidemenuClose {
+  width: 15px;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
 .siteTitle {
   font-size: 1.35rem;
   font-weight: 700;
@@ -409,6 +414,9 @@ h6 {
   .sideMenu .logoIcon {
     display: block;
     margin-bottom: 50px;
+  }
+  .sidemenuClose {
+    display: none;
   }
 }
 

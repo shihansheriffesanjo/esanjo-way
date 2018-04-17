@@ -1,5 +1,6 @@
 <div class="sideMenuWrapper">
   <div id="search-overlay" class="search-overlay"></div>
+  <img src='{{ "images/close.svg" | relURL }}' class="sidemenuClose" alt="Close Icon" id="sidemenuClose"/>
   <div class="sideMenuHeader">
     <a class="logoIcon" href="/"></a>
     <div class="sideMenuTitleCtr">
@@ -101,7 +102,8 @@
   <div class="footerSidebar">
     <ul class="socialMobile">{{ partial "share-links.html" .}}</ul>
     <a href="https://esanjo.com" class="footerLink">www.esanjo.com</a>
-    <div class="footerCopyright">&copy; Esanjo {{ now.Format "2006"}}</div>
+    <div class="footerCopyright">&copy; Esanjo
+      {{ now.Format "2006"}}</div>
   </div>
   <!-- templates -->
   {{ define "section-tree-nav" }}
@@ -172,8 +174,12 @@ $(function () {
   document.querySelector('.toggle-button').addEventListener('click', function () {
     slideout.toggle();
   });
-  window.onresize = function(event) {
-  if(window.innerWidth>=992) slideout.close();
-};
+  document.querySelector('#sidemenuClose').addEventListener('click', function () {
+    slideout.close();
+  });
+  window.onresize = function (event) {
+    if (window.innerWidth >= 992)
+      slideout.close();
+    };
 });
 </script>
