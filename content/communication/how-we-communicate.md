@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "How we communicate at Esanjo"
 image: ""
+banner: '/images/how-we-communicate.svg'
 ---
 
 Our official language is English, but that doesn't mean that we frown upon the use of other languages. We do however expect most important communication whether it be written or spoken to be in English so that we can get and keep everyone on the same page.

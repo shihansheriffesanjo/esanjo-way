@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "The Esanjo expense policy"
 image: ""
+banner: '/images/how-we-handle-expenses.svg'
 ---
 
 

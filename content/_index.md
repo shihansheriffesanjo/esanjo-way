@@ -13,7 +13,7 @@ sections: ""
 categories: ""
 excerpt: "How we work at Esanjo"
 image: ""
-banner: '/images/home-graphics.png'
+banner: '/images/esanjo-way-home.svg'
 ---
 
 # How we work at Esanjo
