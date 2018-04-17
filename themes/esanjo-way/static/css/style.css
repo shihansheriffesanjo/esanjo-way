@@ -262,7 +262,7 @@ h6 {
 .logoIcon {
   width: 40px;
   height: 40px;
-  background-image: url('/images/logoIcon.png');
+  background-image: url('/images/logoIcon.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -364,6 +364,8 @@ h6 {
 .siteTitle {
   font-size: 1.35rem;
   font-weight: 700;
+  color: #fff;
+  text-decoration: none;
 }
 
 .siteSubTitle {
@@ -694,7 +696,7 @@ h6 {
     max-width: 1000px;
     margin: 0 auto;
   }
-  .mainContentCtr .authorCtr{
+  .mainContentCtr .authorCtr {
     padding: 25px 65px;
   }
   .mainContent p {
