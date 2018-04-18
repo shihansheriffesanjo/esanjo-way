@@ -3,22 +3,21 @@ date: 2018-02-22
 toc: true
 next: "/next/path"
 prev: "/prev/path"
-weight: 5
+weight: 2
 title: "Updating your status"
 author: Sushila De Silva
-metadesc: "How we update our status"
+metadesc: "How we update our Status"
 sections: ""
 categories: ""
-excerpt: "Updating your status"
+excerpt: "Updating your Status"
 image: ""
 ---
-
 
 **Updating your status**
 
 If you’re going on holiday then we *certainly* don’t want to disturb you! Once it’s been approved we’ll be alerted on Slack throughout the duration of your leave. Slack lets you change your status so before you leave on holiday you can update that as well if you remember. This will stop us accidentally tagging you when you’re hiking in the Alps, exploring Machu Picchu or relaxing on the beach in Bali.
 
-Nomads travel a lot - that’s one of the benefits of working remotely. You may have to go through pockets that will affect your connectivity or go offline completely. A post on #whereabouts will let us know what to expect. 
+Nomads travel a lot - that’s one of the benefits of working remotely. You may have to go through pockets that will affect your connectivity or go offline completely. A post on #whereabouts will let us know what to expect.
 
 Once you’ve arrived at your destination let us know where you’re signing in from on #whereabouts. No, we’re not stalking you - we’re just curious as cats! Check our [core values] (/core-values) if you don’t believe me.
 
