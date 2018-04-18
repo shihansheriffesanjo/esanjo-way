@@ -7,7 +7,7 @@ weight: 1
 title: "The Esanjo Way"
 author: Omar Kassim
 authorAvatar: omar
-authorRole: "Cheif Executive Officer Esanjo"
+authorRole: "Chief Executive Officer Esanjo"
 metadesc: "How we work at Esanjo"
 sections: ""
 categories: ""
