@@ -19,8 +19,8 @@ If you’re going on holiday then we *certainly* don’t want to disturb you! On
 
 Nomads travel a lot - that’s one of the benefits of working remotely. You may have to go through pockets that will affect your connectivity or go offline completely. A post on #whereabouts will let us know what to expect.
 
-Once you’ve arrived at your destination let us know where you’re signing in from on #whereabouts. No, we’re not stalking you - we’re just curious as cats! Check our [core values] (/core-values) if you don’t believe me.
+Once you’ve arrived at your destination let us know where you’re signing in from on #whereabouts. No, we’re not stalking you - we’re just curious as cats! Check our [core values] (https://way.esanjo.com/about/core-values/) if you don’t believe me.
 
-If you’re taking a long trip and think you may only be online sporadically if at all, it makes sense to just apply for leave for that day. At Esanjo we have [unlimited leave] (/how-we-do-leave) so nobody’s counting anyway.
+If you’re taking a long trip and think you may only be online sporadically if at all, it makes sense to just apply for leave for that day. At Esanjo we have [unlimited leave] (https://way.esanjo.com/people-ops/how-we-do-leave/) so nobody’s counting anyway.
 
 You may be on holiday in an area where fellow Esanjo nomads work. If you’d like to visit we’d love to see you! Just give us a heads up on #general on what time you’ll be dropping by if we have an office or work space in the area. If not just tag the nomads in your area and arrange to meet somewhere convenient. Don’t forget we all love treats so don’t forget to bring us a little something!
