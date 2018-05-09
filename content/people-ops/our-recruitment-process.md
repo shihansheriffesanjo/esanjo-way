@@ -37,6 +37,14 @@ You will be answering questions on all areas of the application. Was there anyth
 
 Finally make your evaluation score and write a summary of why you made this decision. Don’t forget to mention both the pros and the cons if there are any. If you’ve given the applicant a score of ‘Yes’ or above they become a candidate and are pushed through to phone screen. If you’ve given them a score of ‘Not sure’ leave them where they are and make a note to the recruiting Lead for the final decision. In both cases don’t forget to ping the person doing the next step!
 
+### Merging profiles on Recruitee 
+
+You may find Recruitee picking up similar profiles and inviting you to merge them. This could be because two or more candidates have the same name or one person has applied several times either for this or another job role. 
+
+Check each profile and, if the contact details are the same, merge them. 
+
+This gives us the applicant's recruitment history and helps us decide whether to move the application forward or not. For example, someone may have applied earlier for a job role they were not qualified for or re-applied for the same job role with better answers, cover letter and/ or updated CV. On the other hand, we may have already phone screened or interviewed the applicant and decided to reject them. The reason for disqualification will be in the notes and based on that we can make the decision on whether to disqualify the applicant from the present role or consider them for it.
+
 
 ##The phone screen 
 
