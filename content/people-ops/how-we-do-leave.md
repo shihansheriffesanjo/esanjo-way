@@ -18,7 +18,7 @@ banner: '/images/how-we-do-leave.svg'
 We have an unlimited leave policy. Take as many days off as you want.
 
 ## Applying for Leave
-Apply for leave using CakeHR. Your reporting manager will approve your leave on the basis of operational requirements.
+Apply for leave using BambooHR. Your reporting manager will approve your leave on the basis of operational requirements.
 
 ## Sick Leave
 See Unlimited Leave.
