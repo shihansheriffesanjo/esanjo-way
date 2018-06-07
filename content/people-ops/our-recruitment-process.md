@@ -13,12 +13,10 @@ excerpt: "How we find incredible people"
 image: ""
 ---
 
-#Our Recruitment Process
-
+# Our Recruitment Process
 This is how we recruit incredible people to the Esanjo team. This will eventually layout our entire recruitment process and is meant to be a guide for our internal People Ops team. At this point it is a work in progress and we will keep adding to it until it is complete.
 
 ## Pre-screening and evaluation
-
 Every candidate has to answer four questions on the application form. Check those first. Immediately disqualify anyone who has left the fields blank or written something totally irrelevant there. Recruitee will ask you for the disqualification reason so be sure to use the correct one.
 
 Pay attention to the answers we’ve asked for in the application. Especially where we’ve asked for a description and invited the candidate to feel free to get in-depth. One sentence is just not going to cut it. It means they’ve no interest in explaining or just don’t have the experience to do so. 
@@ -37,8 +35,8 @@ You will be answering questions on all areas of the application. Was there anyth
 
 Finally make your evaluation score and write a summary of why you made this decision. Don’t forget to mention both the pros and the cons if there are any. If you’ve given the applicant a score of ‘Yes’ or above they become a candidate and are pushed through to phone screen. If you’ve given them a score of ‘Not sure’ leave them where they are and make a note to the recruiting Lead for the final decision. In both cases don’t forget to ping the person doing the next step!
 
-### Merging profiles on Recruitee 
 
+### Merging profiles on Recruitee 
 You may find Recruitee picking up similar profiles and inviting you to merge them. This could be because two or more candidates have the same name or one person has applied several times either for this or another job role. 
 
 Check each profile and, if the contact details are the same, merge them. 
@@ -46,8 +44,7 @@ Check each profile and, if the contact details are the same, merge them.
 This gives us the applicant's recruitment history and helps us decide whether to move the application forward or not. For example, someone may have applied earlier for a job role they were not qualified for or re-applied for the same job role with better answers, cover letter and/ or updated CV. On the other hand, we may have already phone screened or interviewed the applicant and decided to reject them. The reason for disqualification will be in the notes and based on that we can make the decision on whether to disqualify the applicant from the present role or consider them for it.
 
 
-##The phone screen 
-
+## The phone screen 
 This is our first contact with the candidate. The questions are simple but we look at more than just the answers themselves. The way in which the candidates answer is just as important. Are the answers consistent? Have they made an effort to prepare for a possible phone screen?, Did they do any in-depth checks on the job role and the company?, What questions do they ask? How enthusiastic are they? Do they have the correct attitude?
 
 The ability to communicate is incredibly important. We work as a team and so need to be able to communicate clearly with each other especially in a remote environment. If a candidate has trouble understanding the questions, answers a different question than asked, or does not have sufficient vocabulary to answer we already have a problem. The ability to communicate clearly - understand and be understood - is essential. Drop anyone who can’t right now regardless of the rest of their qualifications.
@@ -55,8 +52,7 @@ The ability to communicate is incredibly important. We work as a team and so nee
 Let the candidate know why you’re calling and how long the phone screen will take. Be flexible - it may not be a good time for them so if they’re not immediately available schedule a better time that works for both of you. Be prepared to go the extra mile because some candidates are only available outside of normal working hours or may be in a completely different time zone than you. 
 
 
-###The questions
-
+### The questions
 The basic questions are what, why, when, how much, and do you have any questions for us? 
 
 What
