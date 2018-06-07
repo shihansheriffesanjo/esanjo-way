@@ -57,6 +57,14 @@ The basic questions are what, why, when, how much, and do you have any questions
 
 What
 
+The most important ‘what’ question is what does the candidate know about Esanjo? 
+
+Have they checked our website and read The Esanjo Way? Do they know what we do and what our projects are? Have they read the blog? Do they know anything about our history? All of these questions will be answered with that first one. We have a beautiful website that contains all of this information. Every job descriptions on our careers page not only contains a brief introduction to the company but also links to our website and The Esanjo Way. There is simply no excuse not to know anything. 
+
+If a candidate tells you that they didn’t have time to go online and check our website in detail, find out why. They may have a valid reason. For example, they may have applied while at work but didn’t have time to do any in-depth research and plan to do this later in the evening. Give them time and call them back.
+
+If a candidate didn’t even read the introduction though and/ or is continuously too busy, politely end the call. It only takes a few minutes to click on the link and read through our home page - so don’t waste time on people who don’t have time for us.
+
 We ask the candidate to give us a brief history of their career and what kind of work they’ve been doing so far. This allows us to assess communication skills, consistency of information (compared to their CVs and other comments they make), confidence, and their own knowledge of their skills and the jobs they’ve been doing so far. 
 
 Look out for what they focus on and how. A candidate who mumbles through their CV is not a strong candidate. A candidate who ties their experience and skill into our job’s requirements is. 
@@ -85,6 +93,11 @@ Even candidates with absolutely no work experience should have some idea of how 
 
 We do not reveal our remuneration scales or budgets to candidates. The purpose of this question is not to negotiate but to find out exactly how much the candidate really wants. It also lets us know how the candidates value themselves given their skills, training and experience. 
 
+The amount we are looking for is the amount that the candidate wants to take home at the end of the month. Esanjo offers a consultancy contract and a fee in USD. There are no additions and no deductions to the amount offered. It is important that candidates are aware of this before they answer. Some locations split remuneration into various allowances and incentives, as in Sri Lanka for example. Don’t forget to explain our contract.
+
+Find out how much candidates presently get. Again it helps us understand how they value themselves; present remuneration vs. expectation.
+
+
 Remote working experience
 
 Does the candidate have any experience working remotely? If they do, ask them to share their experience. How did they adapt to the challenges? If they don’t have experience ask them how they plan to adapt to working from home. Remote job roles are increasing but some people don’t realise that this literally means that they won’t be reporting in to an office. Remember there is no ‘right’ answer to this question. This question clarifies remote working to the candidate and their answers give us an idea of how they will adapt if they’ve not done it before.
@@ -104,3 +117,13 @@ Tips
 Smile. They can’t see you but they can hear it in your voice. Always be polite. 
 
 A phone screen takes 10-15 minutes tops. It shouldn’t run longer than that. A very short phone screen may be a sign that this is the wrong candidate.
+
+
+Writing up
+
+Don’t forget to write up your phone screen and fill in the evaluation form! Use the narrative form and remember that you are writing for people who have, as yet, had no contact with the candidate. Be clear and concise. Write what the candidate told you. If you’ve asked any additional questions, mention them. Was there anything you’d like to add? Go with your gut feeling - was there anything that made you feel the candidate would not be a good fit or was this someone that you would highly recommend for the next stage? Were they enthusiastic or did they show a lack of interest?
+
+Rate their spoken English.
+
+Don’t forget to tag the next person in the process!
+
