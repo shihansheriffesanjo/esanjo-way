@@ -188,12 +188,12 @@ h6 {
 
 ::-webkit-selection {
   color: #fff;
-  background: #f9f6f0;
+  background: #1f50ae;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #f9f6f0;
+  background: #1f50ae;
 }
 
 ::selection {
@@ -637,7 +637,26 @@ h6 {
 .mainContent p {
   margin-bottom: 18px;
 }
-
+.mainContent ul {
+  padding-left: 25px;
+}
+.mainContent ul li {
+  list-style: disc;
+}
+.mainContent ol > li {
+  list-style-type: none;
+  counter-increment: item;
+}
+.mainContent ol > li:before {
+  display: inline-block;
+  padding-right: 10px;
+  font-weight: bold;
+  text-align: right;
+  content: counter(item) '.';
+}
+.mainContent li {
+  margin-bottom: 18px;
+}
 .mainContent h2,
 .mainContent h3 {
   font-size: 1.11764rem;
@@ -704,6 +723,9 @@ h6 {
     padding: 25px 65px;
   }
   .mainContent p {
+    font-size: 1rem;
+  }
+  .mainContent li {
     font-size: 1rem;
   }
   .mainContent h1 {
