@@ -18,7 +18,17 @@ We run our calls every week on a Tuesday at 11AM UAE time, The call currently ta
 
 ## Changes to the call Structure from June onwards:
 
-The following extracted from part of our weekly call on the 19th of June 2018 from [Slack](https://esanjo.slack.com/archives/C63E39KK7/p1529573564000479)
+This has been pulled from a Slack Message that was updated on the [26th of June](https://esanjo.slack.com/archives/C63E39KK7/p1529991094000239)
 
-- The fist big change is that I will be picking from *one or two people* every week on the Monday (a day before the call) to update what’s been going on in their department and any other awesome stuff that they want to share. It doesn’t have to be long and it gives everyone a chance to share updates. Try and include something cool in there!
-- There is also a new card on Asana with all previous update notes. The reason being; it’s cool to go back and see what we’ve worked on as well as if anyone new comes on-board they can also see our awesome journey. The card is [here](https://goo.gl/37VU7F)
+The new structure will see each of heads of departments (I know, sounds so formal!) give a few minutes update of what their team has been working on. However, it is also encouraged to let someone from your team get a chance to give us an update on some weeks. This way; it allows more of us to participate and interact with each other and share cool things each team has been doing every week. It doesn’t need to be long; but please try and prepare for the call (something I admit, that I need to do better myself!)
+
+The call will start with me (@Aamir) and follow the following order:
+
+- :moneybag: Finance Update (@shihan)
+- :computer: Engineering Update (@jobin)
+- :pencil2: Product Update (@karlo)
+- :person_frowning: People Ops Update (@sushila)
+- :thumbsup: General Updates (@aamir or @omar)
+- :question: Other Updates  (this will evolve in the future; with more updates as our teams grow geographically, as well as we integrate current teams in Esanjo, i.e al bogari)
+
+Thanks everyone, apologies for the late notice! Let’s keep on improving!
