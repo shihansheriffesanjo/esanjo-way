@@ -24,11 +24,11 @@ The new structure will see each of heads of departments (I know, sounds so forma
 
 The call will start with me (@Aamir) and follow the following order:
 
-- :moneybag: Finance Update (@shihan)
-- :computer: Engineering Update (@jobin)
-- :pencil2: Product Update (@karlo)
-- :person_frowning: People Ops Update (@sushila)
-- :thumbsup: General Updates (@aamir or @omar)
-- :question: Other Updates  (this will evolve in the future; with more updates as our teams grow geographically, as well as we integrate current teams in Esanjo, i.e al bogari)
+- 💰 Finance Update (@shihan)
+- 🖥️ Engineering Update (@jobin)
+- ✏️ Product Update (@karlo)
+- 🙍 People Ops Update (@sushila)
+- 👍 General Updates (@aamir or @omar)
+- ❓ Other Updates  (this will evolve in the future; with more updates as our teams grow geographically, as well as we integrate current teams in Esanjo, i.e al bogari)
 
 Thanks everyone, apologies for the late notice! Let’s keep on improving!
