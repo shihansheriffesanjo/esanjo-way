@@ -1,11 +1,11 @@
 ---
-date: 2017-01-16
+date: 2018-07-12
 toc: true
 next: "/next/path"
 prev: "/prev/path"
 weight: 5
 title: "Our Product Development Process"
-author: Omar Kassim
+author: Karlo Alfredo
 metadesc: "Our Product Development Process"
 sections: ""
 categories: ""
@@ -16,104 +16,121 @@ banner: '/images/product-development.svg'
 
 ## Overview
 
-[DRAFT] This was our Product Development process at JadoPado and will be largely our starting point at Esanjo.
+Our product development process follows 4-week cycles based on Agile methodologies and is the result of years of continuous iterations to improve efficiency, consistency and most importantly, output quality. We’ve tried a number of project management tools over the years from Trello to Jira and everything else in between before finding Asana and falling completely in love with it. 
 
-![1]
+The product management process is broken down into two departments (or projects as they are called in Asana), Planning and Development. Earlier versions of our process had more but we’ve realized tracking progress across different projects are much tougher, particularly if you work with a large team and numerous tasks simultaneously. 
 
-This is an improved version of our current development plan that we’ve been using for several months. The first version of the development plant worked quite well but like all things, it can always be improved. We’ve identified a number of points that can be improved to increase efficiency, transparency and output quality.
+Pre-development tasks are managed under the Planning department which is broken down into 11 individual subsections:
 
-As you can see, the main difference of this new process from the old version is how projects are no longer team-centric. Although the team-centric board works, we found that card movement across multiple boards as they get worked on by different teams reduces overall visibility of each project (card) which results in some cards remaining stationary for long periods of time. Moreover, team-specific boards hamper interaction between teams since members of a team tend to focus on their own boards and ignore the rest.
+1. Ideas and New Projects
+2. Bugs & Requests
+3. In Queue 
+4. Product Spec
+5. User Interface
+6. Content
+7. Creative Development
+8. Localization
+9. Ready for Development
+10. Obsolete Tasks
+11. Completed without Development
 
-In light of these observations, we’ve developed this new product development process where 4 main projects (Roadmap, Planning, Ideas & Enhancements and Bugs & Glitches, each with its unique purpose, feed a single project. We’ve also replaced Trello with Asana for more flexibility so boards will now be called projects and cards will be named tasks. Please go over the detailed explanation of each project as well as the lists inside them to understand their purpose and how you, as a team member, will play your role.
+After tasks go through the Planning department, they move to the Development department where actual engineering work is performed. Much like the Planning department, the Development department has multiple subsections:
 
----
-## Roadmap Board
+1. In Queue
+2. Under Development
+3. Ready for Testing
+4. Review & Testing
+5. Ready for Deployment
+6. Completed
 
-![2]
+Tasks are managed through cards in Asana and they are the most important component of our product development process. These cards move through the product development process as progress is made. Think of it as a manufacturing assembly line. We have different teams and/or individuals that are responsible for each step of the process. 
 
-This is an overview of all the major features and enhancements that we will be working on in the coming year broken down per quarter. As soon as each task gets worked on, it will be labeled with “Moved to Planning” to serve as a reference that the task is being prepared for production.
+In addition to Asana, the Product team also uses Abstract to manage UI assets and Marvel for prototyping, design and asset handoffs to the engineering team. Real-time discussions among the team are done in the #product and #engineering channels on Slack. 
 
-Available Card Label: Moved to Planning
-
----
-
-## Planning Board
-
-![3]
-
-This is where we prepare all tasks for production before they move to Production for development.  UX, Design, Engineers and Content teams will work together here to prepare product specs, design prototypes, content and process flows to make sure that materials are complete and functionality is finalized before they are sent to Production for implementation.
-
-Next Up - This will list tasks from Bugs and the Glitches and Ideas & Enhancement that we’ve agreed to develop.
-
-Spec - When a task reaches this stage, it only has a short description about the proposed feature or bug. Before any further development can be performed, a detailed spec will be prepared to flesh out the concept and discuss technical complexities with the Engineers. The spec will be writted in a Google Doc and a link will be provided in each task.
-
-Design - This is a multi step process where the spec is converted to a design prototype primarily by the UX team with help coming from the Design team for graphical elements in the design. Engineers are also kept in the loop to verify if proposed functionality and workflows are feasible. A process flow that outlines user journey and interaction will also be prepared to serve as a guide for everyone to understand how the feature will function. The last step in the design process is the generation of styleguides using Zeplin (https://zeplin.io/) to help Engineers develop an output that’s a pixel perfect copy of the original design prototype.
-
-Content - Content development almost always happens alongside design since one is dependent on the other. The content team will prepare the product copy (copy=content) through the use of the product spec and process flow created by the design team. Content development is one of the most critical part of product development since it has a direct impact on usability and on our goal conversion rates.
-
-Ready - By the time the task reaches this list, it will have a detailed spec, design prototypes, process flows and completed content. The Engineers and management will then discuss what tasks will be forwarded to the Next Up list in Production for development.
+Once a new product or feature gets launched, the focus then turns to optimization to help us improve user experience as the product matures. Analytics and performance tracking are primarily done through Google Analytics and/or Firebase if the product is a mobile application.  
 
 ---
-## Production Board
+## Process Overview
 
-![4]
+The product development process revolves around cards in Asana. All information required to build a new product, feature or fix an existing issue are stored in these cards. We use two types of card formats; one designed for new features or products and another for bugs found in our live environments. 
 
-Our primary project where ideas are built from concept to actual working products. This is where you can see the tasks that are next in line for development, what’s being worked on and tasks that had been rolled out to the live environment.
+The cards themselves are broken down into subtasks that are assigned to individual members of the team. These subtasks help us breakdown a complex product or feature into simpler tasks to manage them more effectively. 
+ 
+The following steps defines how our process works and illustrates how a new idea transforms into a completely functional product or feature. 
 
-Previously, our engineers work in sprints of 2 weeks where they study, develop and test new products all within this period. This short time frame doesn’t give them sufficient time to plan and test products before shipping them out which resulted in a lot of time wasted fixing bugs on previously rolled out projects that were done in haste. To improve our output quality, we’ve decided to go with a 4-week development cycle and 1 week planning periods and call them cycles instead of sprint. The 1-week planning period will be used to study and plan tasks that will be worked on during the 4-week development cycle. During the 4-week development cycle, engineers will develop and test 2-3 big tasks, at least 3 smaller ones and bugs that were handpicked during the 1-week planning period. The engineering heads will assign individual tasks to 1 or 2 engineers that possess the right skillset and experience that best fits the task at hand.
+#### Step 1. Idea Generation
 
-In addition to the modification on the development period, the UX team will now officially work hand in hand with the engineers during the 4-week development cycle to help ensure that our output exactly matches the original product specifications and design prototypes. The UX team member that built the creatives will work together with the engineer that develops the tasks until completion.
+Ideas for new products or features may come internally from anyone within the team or submitted by one of our external users. We create cards for these ideas and file them under the Ideas and New Projects column in the Planning department. Bugs and other internal or external requests are field under the Bugs & Request column. 
 
-Next Up - This is the prioritized list of the tasks that are ready for production and will be handled in the next 4-week production cycle. Each card will be tagged by type (Enhancement or Bug) and development complexity (Less than a week, 1 cycle or less, over 1 cycle) for clarity. All bugs will be placed on top of the list and be prioritized over enhancements.  
+#### Step 2. Product Spec
 
-Under Development - Engineers will pick up their respective tasks from the Next Up list at the beginning of the 4-week cycle. Simultaneously, a member of the UX team will closely work with the engineers during this phase to help guide them on design and functionality during development and testing. A completion date will then be added to each card to give us an idea when a feature is expected to be available for internal testing.
+The product specification is written at this stage. It details the what, why, where and how of the product. You can view the product spec as a blueprint that the guides everyone what the product is going to be. Depending on the complexity of the project or feature, it can be directly written on the Description area of the card if it’s simple or in a Google Doc for complex ones. We tend to write product specs of new projects in Google Docs and feature updates are done directly on the cards. 
 
-Technical Review/QA - When the feature is ready, Engineers will deploy it on a testing environment. The Engineer, UX and Content team members responsible for design, content production and development will inspect and sign off on the completed work to verify that the output is according to the spec and that bugs and other technical issues are ironed out before it gets released for internal testing.
+#### Step 3. Journey Map
 
-Internal Testing - After the product goes through QA, it gets released internally in a beta environment. People internally will test the product thoroughly and identify minor bugs that may have slipped through the QA process.
+We create a journey map to serve as the visual interpretation of what we’ve written in the product spec. This is where the tire meets the road so to speak where user experiences are built and fine tuned. In most cases, teams refer to the journey map more than the product spec to understand the nuances of what we’re building. You can think of the product spec as a general guideline of what we’re planning to build and the journey map being the actual blueprint of what we’re going to build. 
 
-Ready to be Deployed - Tasks that were reviewed and approved for deployment goes here until they actually go live.
+Journey maps are developed in Realtime Board and are shared to everyone in the product and engineering teams. 
 
-Live (Date Released) - These are the tasks that had been deployed to the public after rigorous QA and testing. We create a new “Live (Date Released)” list every deployment so we can track what tasks (enhancements/bugs) were launched when. Live deployment happens no later than 12PM. That gives us half a day to monitor and fix any issues that may arise.   
+#### Step 4. UI Development
 
-Available Card Labels:
-Type - Enhancement, Bug
-Complexity - Less than a week, 1 sprint or less, Over 1 cycle
+After the journey map has been reviewed and confirmed, we start working on the UI of the product. This is where the fun really begins for the team as we’ll finally see how the actual product potentially look like for the first time. 
 
----
-## Ideas & Enhancements
+UI work is exclusively done on Sketch and design files are managed through Abstract. All our design files are stored in the cloud which means we have access to them anywhere we go and there’s no risk of losing files should our hard drives fail. 
 
-![5]
+When designing responsive websites, designs are made on these sizes:
 
-This is where we submit ideas and suggestions to improve our product and/or operational processes. This project is reviewed every Thursday at 10am and priority is given to those tasks that were able to demonstrate and justify why we should develop that idea over the others. Idea creators are responsible to sell the idea to the rest of the team.
+* Mobile - 360x640
+* Tablet - 720x1280
+* Small Desktop - 1366x768
+* Full Desktop - 1920x1080
 
-Internal - Ideas by all team members will be submitted here. When submitting a card, make sure that you add a detailed description of what your idea is about including the rough concept of how you see it working and how it can improve product useability. Ideas that do not provide sufficient details or demonstrate how it will improve user experience and/or our bottom line will be passed over.
+For mobile applications, we use 360x640 and tweak the size during the development stage for high resolution devices. 
 
-External - These are the ideas submitted by our users (sellers and buyers). These will be gathered first hand through a direct interaction by any member of the team or submitted directly by the user through a feedback mechanism that we will introduce in the future.
+#### Step 5. Creative Development
 
----
-## Bugs & Requests
+In many cases when the UI for either a mobile application of website gets developed, the designs will require custom vector graphics to improve the appeal of the product. These custom graphics are made in either Adobe Illustrator or Photoshop. We even use Adobe After Effects periodically for graphics that need animation.
 
-![6]
+If we’re building a new mobile application, we also prepare application banners and app icons for Google Play and App Store when we submit the app for listing. 
 
-This is where we submit bugs and other request for user-facing products or internal tooling.
+#### Step 6. Content Development
 
-Incoming - Bugs we encounter on the product and internal tooling will be submitted here. These will contain screenshots of the affected product, detailed description about the buy and required fix or solution and how to replicated the bug if it’s process oriented. Tasks may be labelled Critical if it meets the following criteria:
+We view content as one of the critical components of product development. A bad content can easily undo even the most well thought out user experience. Content is typically broken down in to different types depending on what we’re building. 
 
-- It interrupts users to perform a core function (eg. Buy a product, process an order, take a store live, add a product or offer, send a message, log in, create 	account)
-- Security issues
+* User Interface
+* Web
+* In-App Notifications/Validation Messages
+* Emails
+* App Store Listings
 
-Accepted - This list will be reviewed every Thursday and handpick the bugs that will be forwarded to Planning. We limit the number of bugs we pick to 5 per week. Tasks labeled Critical will be immediately forwarded to the Production board and an engineer will fix it right away regardless of the development cycle status.
+Since the amount of content required for even a simple project can be quite substantial, we rely on Google Drive to keep everything organized. We create a folder in Google Drive to store all content for every new project. Using Google Docs to manage content is more convenient as collaboration with the rest of the team is more seamless and files are accessible wherever we are. 
 
-Requests - These are internal requests made to any teams that are neither a bug nor enhancements like DB updates, marketing reports, etc. Team leaders pick these up as they please. Once the request has been satisfied, the person that raised the request must move it to the column Completed.
+#### Step 7. Handoff Prep and Prototyping
 
-Completed - All completed request should be moved here by the person who raised the request.
+We update the copy on the UI designs to accurately reflect the final content. This practice helps us see the actual content on the designs and make layout adjustments before any engineering work is done. 
 
-Available Label: Critical
+After design is finalized, we import the screens to Marvel, our design handoff tool. Marvel automatically generate development resources like code snippets, design specs and assets that our engineering team uses. 
 
-[1]:/images/2017/01/Overview.png
-[2]:/images/2017/01/Roadmap.png
-[3]:/images/2017/01/Planning.png
-[4]:/images/2017/01/Production.png
-[5]:/images/2017/01/Ideas-Enhancements.png
-[6]:/images/2017/01/Bugs-Requests.png
+We also regularly uses Marvel to create interactive prototypes to validate UX or collaborate ideas with our clients.  
+
+#### Step 8. Engineering Handover
+
+At this point, the card will move from the Planning department to Development. We’ll review the card a final time to make sure that all the pre-development steps were done correctly before moving it to the In Queue column within the Development department. 
+
+The team meets at the start of every engineer cycle to discuss what features, products and bugs we’re going to work on during the coming cycle. When the cycle starts, everything that has been selected for development will then be moved to the Under Development column where they will stay until they’re ready for testing. 
+
+#### Step 9. Localisation
+
+Our default language is English but we create an Arabic version of most of our products. During the engineering stage, the engineers will prepare the content in a JSON file format and share it to the localisation team for translation. The localization team uses a Memsource, a powerful translation memory platform, to manage our localization process. 
+
+#### Step 10. Internal Review and Testing
+
+The engineers perform a code review then before deploying products in a testing environment for internal review and testing. Testing process varies on the type of product of feature being reviewed. If it’s a new product or feature, we perform an acceptance test across the entire system to make certain that the platform works as it should. The introduction of a new product/feature is always an exciting and tense time for the entire team and always calls for a more thorough testing than a simple update of an already existing feature. 
+
+If everything passes the tests, the card gets pushed to Ready for Deployment where it awaits deployment to the live environment. Should there be a need to fix something, we file tickets on the card and tag the appropriate engineer to work on them. 
+
+#### Step 11. Deployment
+
+Deployments are done from Sunday till Wednesday. We avoid deploying any updates or new features on Thursdays since nobody will be available on Fridays and Saturdays (weekend in Dubai) should something go wrong. 
+
+We tend to deploy mobile apps ahead of their web versions since the apps still have to be reviewed by Apple App Store and Google Play Store. iOS versions of the mobile apps are released at least a day ahead of the Android version since Apple takes much longer time to review app submissions. 
