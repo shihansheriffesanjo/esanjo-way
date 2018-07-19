@@ -127,3 +127,33 @@ Rate their spoken English.
 
 Don’t forget to tag the next person in the process!
 
+## Technical review and evaluation
+
+The next step is to determine whether the candidate actually has the practical skills needed to do the job they are applying for. We do this by sending the candidate a technical assessment test and asking them to complete it within a specified time frame. This is not a paid assignment - we won’t be using any of this work for anything other than to evaluate the candidates’ capabilities. 
+
+
+### The test
+
+The tests are job specific and created by the department Leads to determine whether the candidate actually has the skills that we’re looking for. Candidates are expected to solve a few real problems that they’ll encounter in their day to day work at Esanjo. 
+
+The tests may take the form of a short assignment, a problem that needs to be solved, or even a role playing discussion via Skype. It depends on the skills being tested and the creativity of the person putting the test together. 
+
+Every test has some sort of timeline. These can differ as well. Candidates may be asked to complete and return the test on the same day or are given up to three days. We are flexible though and do give candidates the opportunity to extend the completion times and dates. Don’t forget that most of them have full time jobs as well family commitments that they’ll have to work around.
+
+We are looking at how well candidates handle deadlines and their performance. We’re also looking at how they respond and communicate any problems they might face. Are candidates comfortable with asking for clarifications? Do they ask for extensions to the deadline and under what circumstances? At a more basic level are they checking their mail for updates on job applications they’ve made?
+
+Tests are constantly updated and tweaked. Someone may even sneak in a well planned trap to make sure the candidate is an expert in the area under examination.
+
+### Follow up
+
+You need to follow up on test related questions and requests for clarifications as soon as possible. Always be polite and provide as much clarity as possible without actually doing the assignment for the candidate. 
+
+### Evaluation
+
+Once the tests are returned they are checked and evaluated. Candidates do not need to score 100% but they need to show proof that they can do the job and do it well. The method of evaluation depends on the position you are testing for and the test you’ve prepared. Each position will be evaluated differently.
+
+Don’t forget to write up your evaluation. Mention both the plus and the minus points. If you were expecting something specific that did not happen, you need to mention that. If the candidate is not up to the mark but shows great potential, you need to mention that too. You may even recommend them for a junior position or tag them for a future hire. 
+
+Finally you need to be clear on whether you’ve given the candidate a pass or a fail. Don’t forget to tag the rest of the recruitment team!
+
+
