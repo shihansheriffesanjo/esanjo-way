@@ -156,4 +156,29 @@ Don’t forget to write up your evaluation. Mention both the plus and the minus 
 
 Finally you need to be clear on whether you’ve given the candidate a pass or a fail. Don’t forget to tag the rest of the recruitment team!
 
+## Cultural fit
+
+This is where we determine if the candidate fits into our awesome culture. When you schedule the call, you’ll be inviting the candidate to take a look at our websites and read through our handbook, the Esanjo Way. Make sure they have a couple of days to do this when scheduling.
+
+We use [Daily] (https://dashboard.daily.co/) for the screening so that we can see the candidate face to face. 
+
+The cultural fit takes the form of a friendly chat. You’ll listen more than talk here. Again there are no right or wrong answers. Remember this is not a test - candidates do not need to know what’s in there word for word, nor do they need to know every single detail. We’re looking at what stood out and what appealed to them. We want to know what kind of people they are and what makes them tick.
+
+You’ll be asking the candidates about four questions; two general and two specific. An example of a general question would be; what did you think of our website and what stood out? A specific question would be; which is your favourite core value? We have a [list of questions] (https://docs.google.com/document/d/1PhiqO3z1aKcUlarY2Furf4CTUPGkOL_Gr4aH7Iogy3c/edit?usp=sharing) that you can pick from and even update if you like.
+
+The purpose of the cultural fit is to determine how the candidate would fit in and work with the other team members. Would they be able to adapt to the way we work and would they enjoy the way we work? Would we enjoy working with them? Do they share the same work ethic and values? Do they sound like they’d bring something positive to the team and enrich everyone’s working experience?
+
+If you’re not quite sure the candidate is a match or if they don’t answer in depth, throw in a few more questions just to be sure. Remember not everyone likes to talk a lot and this doesn’t mean that they’re not a good fit. Everyone is different so be adaptable. Some candidates are really excited about what they’ve read and have a lot to say. You may find that they’re answering your questions without you even having to ask them! Others may not be not so verbal. The idea is to focus on what they’re saying rather than how they’re saying it. 
+
+Don’t forget to ask if the candidate has any questions, comments or suggestions. They usually do but if they don’t, it doesn’t mean that they’re not a good fit. 
+
+If you think a candidate has too many ‘obvious’ questions it means they either haven’t taken the time to read through the information properly or haven’t understood what’s up there. Clearly these candidates are not a fit.
+
+The cultural fit screening should take about the same time as a phone screen - 10 to 15 minutes. Don’t be surprised though if it runs a bit longer. Be flexible but if it runs longer than 20 minutes, politely let the candidate know their time is up. You can invite candidates to email you any further questions they might have. 
+
+Don’t forget to write up the screening, if not immediately, then as soon as possible after. You can use any format but it helps to quote some of the candidate’s actual words. This will give the others in the recruitment team a better idea of the person’s character. 
+
+Finally if you think the candidate isn’t a good fit remember to say why. Go with your gut feeling. If there was something that sounded off or something the candidate let slip that didn’t feel right mention it even if you’re pushing the person forward. It will allow the recruitment team to follow up in more detail during the next stage. 
+
+Don’t forget to tag the rest of the team!
 
