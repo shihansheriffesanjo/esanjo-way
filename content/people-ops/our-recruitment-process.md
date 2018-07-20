@@ -182,3 +182,12 @@ Finally if you think the candidate isn’t a good fit remember to say why. Go wi
 
 Don’t forget to tag the rest of the team!
 
+## Rejection
+
+Unfortunately not everyone makes it but once the candidate has reached phone screen and points beyond, you need to let them know at the very earliest if they’re not being considered for the next step. This is only fair as it allows candidates to move on and look at other options and opportunities. 
+
+We have different templates for the rejection email depending on which step the candidate is disqualified from. Select the correct one from the templates and send it out to them. Once you’ve sent the candidate the email, select the disqualify option and choose the reason from the list. If you’ve not already mentioned the reason in detail in your notes, you need to do that now. 
+
+Some candidates, in fact most of them, will respond to your rejection email in one way or another. Most of them will ask you to share the reason for your decision as a learning experience in order to improve their chances in future job applications. 
+
+We do offer to provide in-depth feedback if candidates need it from the Review stage onwards. Unfortunately we do not yet have the time and resources to provide feedback for any of the stages before that.
