@@ -109,7 +109,7 @@ Since the amount of content required for even a simple project can be quite subs
 
 We update the copy on the UI designs to accurately reflect the final content. This practice helps us see the actual content on the designs and make layout adjustments before any engineering work is done. 
 
-After design is finalized, we import the screens to Marvel, our design handoff tool. Marvel automatically generate development resources like code snippets, design specs and assets that our engineering team uses. 
+After design is finalized, we import the screens to Marvel, our design handoff tool. Marvel automatically generates development resources like code snippets, design specs and assets that our engineering team uses. 
 
 We also regularly uses Marvel to create interactive prototypes to validate UX or collaborate ideas with our clients.  
 
