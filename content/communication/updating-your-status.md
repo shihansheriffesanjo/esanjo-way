@@ -24,3 +24,11 @@ Once you’ve arrived at your destination let us know where you’re signing in 
 If you’re taking a long trip and think you may only be online sporadically if at all, it makes sense to just apply for leave for that day. At Esanjo we have [unlimited leave] (https://way.esanjo.com/people-ops/how-we-do-leave/) so nobody’s counting anyway.
 
 You may be on holiday in an area where fellow Esanjo nomads work. If you’d like to visit we’d love to see you! Just give us a heads up on #general on what time you’ll be dropping by if we have an office or work space in the area. If not just tag the nomads in your area and arrange to meet somewhere convenient. Don’t forget we all love treats so don’t forget to bring us a little something!
+
+**Using #whereabouts**
+
+Don’t forget that the purpose of the #whereabouts channel is to let us know who is available and who isn’t. It is not for discussions - we have plenty of other channels for that. If you want to comment on someone’s #whereabouts post, please move it to #random.
+
+It is for the same reason that we don’t want people opening threads on #whereabouts. A thread used as an update means people looking for you need to waste time opening the thread. Just post your update directly in the channel where we can all see it. 
+
+Just to keep things fun though, you are allowed to react to a post with an emoji! 
