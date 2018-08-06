@@ -48,7 +48,7 @@ The designer on the team leads the project, but has a very close working relatio
 
 No matter the role, we all track our work on Asana and communicate on Slack. No major decision should be made on Slack without it reflecting back on the relevant feature task or card on Asana.
 
-While it would be ideally to have everything in one place, Slack is great at allowing us to communicate fluidly, whilst Asana is the right fit for us from a full team project management perspective. We've tried many many tools, and this is the right combination at this time. It is however likely that it'll change at some point, as the only consistency is change.
+While it would be ideal to have everything in one place, Slack is great at allowing us to communicate fluidly, whilst Asana is the right fit for us from a full team project management perspective. We've tried many many tools, and this is the right combination at this time. It is however likely that it'll change at some point, as the only consistency is change.
 
 We continue to use GitHub to manage our code as well as to manage issues that relate back to feature cards in Asana, but this is something that we need to re-look at from an efficiency perspective in the near future.
 
