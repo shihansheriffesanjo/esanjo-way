@@ -45,7 +45,7 @@ This gives us the applicant's recruitment history and helps us decide whether to
 
 
 ## The phone screen 
-This is our first contact with the candidate. The questions are simple but we look at more than just the answers themselves. The way in which the candidates answer is just as important. Are the answers consistent? Have they made an effort to prepare for a possible phone screen?, Did they do any in-depth checks on the job role and the company?, What questions do they ask? How enthusiastic are they? Do they have the correct attitude?
+The phone screen, or in the case of remote candidates the online screening, is our first contact with the candidate. The questions are simple but we look at more than just the answers themselves. The way in which the candidates answer is just as important. Are the answers consistent? Have they made an effort to prepare for a possible phone screen? Did they do any in-depth checks on the job role and the company? What questions do they ask? How enthusiastic are they? Do they have the correct attitude?
 
 The ability to communicate is incredibly important. We work as a team and so need to be able to communicate clearly with each other especially in a remote environment. If a candidate has trouble understanding the questions, answers a different question than asked, or does not have sufficient vocabulary to answer we already have a problem. The ability to communicate clearly - understand and be understood - is essential. Drop anyone who can’t right now regardless of the rest of their qualifications.
 
@@ -55,15 +55,7 @@ Let the candidate know why you’re calling and how long the phone screen will t
 ### The questions
 The basic questions are what, why, when, how much, and do you have any questions for us? 
 
-What
-
-The most important ‘what’ question is what does the candidate know about Esanjo? 
-
-Have they checked our website and read The Esanjo Way? Do they know what we do and what our projects are? Have they read the blog? Do they know anything about our history? All of these questions will be answered with that first one. We have a beautiful website that contains all of this information. Every job descriptions on our careers page not only contains a brief introduction to the company but also links to our website and The Esanjo Way. There is simply no excuse not to know anything. 
-
-If a candidate tells you that they didn’t have time to go online and check our website in detail, find out why. They may have a valid reason. For example, they may have applied while at work but didn’t have time to do any in-depth research and plan to do this later in the evening. Give them time and call them back.
-
-If a candidate didn’t even read the introduction though and/ or is continuously too busy, politely end the call. It only takes a few minutes to click on the link and read through our home page - so don’t waste time on people who don’t have time for us.
+#### What
 
 We ask the candidate to give us a brief history of their career and what kind of work they’ve been doing so far. This allows us to assess communication skills, consistency of information (compared to their CVs and other comments they make), confidence, and their own knowledge of their skills and the jobs they’ve been doing so far. 
 
@@ -73,19 +65,19 @@ Use this opportunity to clarify information from the candidates’ CVs. For exam
 
 Take notes. Sometimes candidates will mention interesting things that aren’t in their CVs but have relevance to the job we’re recruiting for or to the work we do in general. Don’t be afraid to pursue something interesting but be sure to keep it short. There will be enough time to go into details if they reach the interview stage.
 
-Why
+#### Why
 
 Find out why the candidate applied for this particular job. If they are making a major career change, find out what led them to this decision. Ask why they chose Esanjo. Make a note of how well they’ve researched the company; whether they’ve just glanced at the website or actually taken the time to read The Esanjo Way. Referrals will know more about our internal culture from the team member who referred them but don’t forget to make sure that they’ve done their background checks as well and are not just relying on what they’ve heard. We want to hire people who are really interested in our company and who are excited about how we do things. 
 
 Find out why they are leaving their present job. It will help us understand what motivates them.
 
-When
+#### When
 
 We need to know when the candidates can start work. Are they available immediately? Do they have a notice period in their current role? The notice period tends to be one month but this can differ from company to company. A longer notice period may affect a candidates application especially if we need to fill the position as soon as possible. On the other hand incredible people are not easy to find. Don't let the length of the notice period deter your judgment.
 
 This information lets us fix a start date in the event that the candidate is offered the position.
 
-How much
+#### How much
 
 This is a very important question. We need a clear idea of a candidate’s expectations. If a candidate cannot give us a solid figure or persists in being vague then this where their application stops.
 
@@ -98,30 +90,30 @@ The amount we are looking for is the amount that the candidate wants to take hom
 Find out how much candidates presently get. Again it helps us understand how they value themselves; present remuneration vs. expectation.
 
 
-Remote working experience
+#### Remote working experience
 
 Does the candidate have any experience working remotely? If they do, ask them to share their experience. How did they adapt to the challenges? If they don’t have experience ask them how they plan to adapt to working from home. Remote job roles are increasing but some people don’t realise that this literally means that they won’t be reporting in to an office. Remember there is no ‘right’ answer to this question. This question clarifies remote working to the candidate and their answers give us an idea of how they will adapt if they’ve not done it before.
 
-Extras
+#### Extras
 
 Some of our positions need a few job specific questions. This is where you add those. Examples include, ‘what tech do you use?’ for engineering candidates, ‘what accounting packages have you used?’ for finance and accounting candidates and, for job roles that will cover 24/7 ‘do you have a problem working outside of normal office hours/ weekends/ holidays’. 
 
-Questions
+#### Questions
 
 Don’t forget to ask the candidate if they have any questions for us. Make a note of what they ask and how you answered. If they don’t ask any questions, make a note of that too! Be sure to answer all questions clearly. 
 
 Candidates may ask you technical questions that need in-depth answers from an expert. Make a note of these and let the candidate know that if they progress to the next stage they’ll be able to get more detailed information.
 
-Tips
+#### Tips
 
 Smile. They can’t see you but they can hear it in your voice. Always be polite. 
 
 A phone screen takes 10-15 minutes tops. It shouldn’t run longer than that. A very short phone screen may be a sign that this is the wrong candidate.
 
 
-Writing up
+### Writing up
 
-Don’t forget to write up your phone screen and fill in the evaluation form! Use the narrative form and remember that you are writing for people who have, as yet, had no contact with the candidate. Be clear and concise. Write what the candidate told you. If you’ve asked any additional questions, mention them. Was there anything you’d like to add? Go with your gut feeling - was there anything that made you feel the candidate would not be a good fit or was this someone that you would highly recommend for the next stage? Were they enthusiastic or did they show a lack of interest?
+Don’t forget to write up your phone screen! Use the narrative form and remember that you are writing for people who have, as yet, had no contact with the candidate. Be clear and concise. Write what the candidate told you. If you’ve asked any additional questions, mention them. Was there anything you’d like to add? Go with your gut feeling - was there anything that made you feel the candidate would not be a good fit or was this someone that you would highly recommend for the next stage? Were they enthusiastic or did they show a lack of interest?
 
 Rate their spoken English.
 
@@ -168,7 +160,7 @@ You’ll be asking the candidates about four questions; two general and two spec
 
 The purpose of the cultural fit is to determine how the candidate would fit in and work with the other team members. Would they be able to adapt to the way we work and would they enjoy the way we work? Would we enjoy working with them? Do they share the same work ethic and values? Do they sound like they’d bring something positive to the team and enrich everyone’s working experience?
 
-If you’re not quite sure the candidate is a match or if they don’t answer in depth, throw in a few more questions just to be sure. Remember not everyone likes to talk a lot and this doesn’t mean that they’re not a good fit. Everyone is different so be adaptable. Some candidates are really excited about what they’ve read and have a lot to say. You may find that they’re answering your questions without you even having to ask them! Others may not be not so verbal. The idea is to focus on what they’re saying rather than how they’re saying it. 
+If you’re not quite sure the candidate is a match or if they don’t answer in depth, throw in a few more questions just to be sure. Remember not everyone likes to talk a lot and this doesn’t mean that they’re not a good fit. Everyone is different so be adaptable. Some candidates are really excited about what they’ve read and have a lot to say. You may find that they’re answering your questions before you've even asked them! Others may not be not so verbal. The idea is to focus on what they’re saying rather than how they’re saying it. 
 
 Don’t forget to ask if the candidate has any questions, comments or suggestions. They usually do but if they don’t, it doesn’t mean that they’re not a good fit. 
 
