@@ -21,7 +21,7 @@ We have one golden rule about spending at Esanjo, please treat company money as 
 ## How do I make a claim?
 We've tried to make this easy and keep it simple to get it up and running.
 
-For all expense claims, we've got a parent folder set up on Google Drive that the Finance team have access to called: [Expense Claims 2017/18](https://drive.google.com/drive/u/1/folders/18DjaCsaGrH80ySFsS9nKstPzgHxr4ujf). Each person will have their own sub folder within, designated by their name. It is important that you keep this folder organised.
+For all expense claims, we've got a parent folder set up on Google Drive that the Finance team have access to called: [Expense Claims 2018/19](https://drive.google.com/drive/folders/1x7lvfYuA6i3KVq4RqHn0CvlMje--Js4a?usp=sharing). Each person will have their own sub folder within, designated by their name. It is important that you keep this folder organised.
 
 Every month, please create a new folder using the naming convention "Month Year", for example “January 2018” and upload any bills together with any related documents for an expense that you'd like to claim.
 
