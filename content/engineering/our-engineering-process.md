@@ -25,7 +25,7 @@ Every four weeks we start a new cycle of work. Each cycle contains two types of 
 At the end of a four week cycle, we kick off a one week planning period which we use to plan the next cycle, work on side projects, clean up small bits and pieces and take a bit of a breather to switch context before we gear up for the next cycle.
 
 ## Building the four week version
-If a given Big Feature is expect to take longer than one cycle to be feature complete, we expect to ship the "four week version" of that feature in a given cycle, followed by the "eight week version", the "twelve week version" and so on. This will push us to hammer down the scope of a given feature to its "four week version", and will push us to keep shipping Big Features every cycle.
+If a given Big Feature is expected to take longer than one cycle to be feature complete, we expect to ship the "four week version" of that feature in a given cycle, followed by the "eight week version", the "twelve week version" and so on. This will push us to hammer down the scope of a given feature to its "four week version", and will push us to keep shipping Big Features every cycle.
 
 We expect Small Features to ship as soon as they're ready, regardless of how far along the cycle we may be.
 
