@@ -32,9 +32,11 @@ This is our official Slack theme: #50049b,#3E313C,#3F95EA,#FFFFFF,#3E313C,#fffff
 Slack has awesome help documentation to help get you up to speed: https://get.slack.help/hc/en-us/categories/200111606-Using-Slack
 
 ### Slack Calls
-If chat isn't quite cutting it, Slack has calls that support audio, video and screen sharing build right in. Use the phone icon and ring up a team mate or alternatively kick off a call in a given channel. It's best to organise a call by tagging whoever you may need upfront to makes sure that they're available before you kick off a call. Value everyone's time and don't expect people to adhere to the needs of your schedule!
+If chat isn't quite cutting it, Slack has calls that support audio, video and screen sharing built right in. Use the phone icon and ring up a team mate or alternatively kick off a call in a given channel. It's best to organise a call by tagging whoever you may need upfront to makes sure that they're available before you kick off a call. Value everyone's time and don't expect people to adhere to the needs of your schedule!
 
 Learn more about Slack calls: https://get.slack.help/hc/en-us/articles/216771908-Make-calls-in-Slack
+
+Once you're done with your call, don't forget to write up and post a brief summary of what was discussed and decided in keeping with our policy of transparency.
 
 ### Slack Snooze and DND
 Slack has a nice snooze button at the top of the left page that stops any notifications hitting you when turned on. Toggle it on when you've got downtime or need to hit deep focus mode.
