@@ -18,7 +18,7 @@ banner: '/images/product-development.svg'
 
 Our product development process follows 4-week cycles based on Agile methodologies and is the result of years of continuous iterations to improve efficiency, consistency and most importantly, output quality. We’ve tried a number of project management tools over the years from Trello to Jira and everything else in between before finding Asana and falling completely in love with it. 
 
-The product management process is broken down into two departments (or projects as they are called in Asana), Planning and Development. Earlier versions of our process had more but we’ve realized tracking progress across different projects are much tougher, particularly if you work with a large team and numerous tasks simultaneously. 
+The product management process is broken down into two departments (or projects as they are called in Asana); Planning and Development. Earlier versions of our process had more but we’ve realised tracking progress across different projects are much tougher, particularly if you work with a large team and numerous tasks simultaneously. 
 
 Pre-development tasks are managed under the Planning department which is broken down into 11 individual subsections:
 
@@ -29,7 +29,7 @@ Pre-development tasks are managed under the Planning department which is broken 
 5. User Interface
 6. Content
 7. Creative Development
-8. Localization
+8. Localisation
 9. Ready for Development
 10. Obsolete Tasks
 11. Completed without Development
@@ -47,7 +47,7 @@ Tasks are managed through cards in Asana and they are the most important compone
 
 In addition to Asana, the Product team also uses Abstract to manage UI assets and Marvel for prototyping, design and asset handoffs to the engineering team. Real-time discussions among the team are done in the #product and #engineering channels on Slack. 
 
-Once a new product or feature gets launched, the focus then turns to optimization to help us improve user experience as the product matures. Analytics and performance tracking are primarily done through Google Analytics and/or Firebase if the product is a mobile application.  
+Once a new product or feature gets launched, the focus then turns to optimisation to help us improve user experience as the product matures. Analytics and performance tracking are primarily done through Google Analytics and/or Firebase if the product is a mobile application.  
 
 ---
 ## Process Overview
@@ -68,7 +68,7 @@ The product specification is written at this stage. It details the what, why, wh
 
 #### Step 3. Journey Map
 
-We create a journey map to serve as the visual interpretation of what we’ve written in the product spec. This is where the tire meets the road so to speak where user experiences are built and fine tuned. In most cases, teams refer to the journey map more than the product spec to understand the nuances of what we’re building. You can think of the product spec as a general guideline of what we’re planning to build and the journey map being the actual blueprint of what we’re going to build. 
+We create a journey map to serve as the visual interpretation of what we’ve written in the product spec. This is where the tire meets the road, so to speak, where user experiences are built and fine tuned. In most cases, teams refer to the journey map more than the product spec to understand the nuances of what we’re building. You can think of the product spec as a general guideline of what we’re planning to build and the journey map being the actual blueprint of what we’re going to build. 
 
 Journey maps are developed in Realtime Board and are shared to everyone in the product and engineering teams. 
 
@@ -103,13 +103,13 @@ We view content as one of the critical components of product development. A bad 
 * Emails
 * App Store Listings
 
-Since the amount of content required for even a simple project can be quite substantial, we rely on Google Drive to keep everything organized. We create a folder in Google Drive to store all content for every new project. Using Google Docs to manage content is more convenient as collaboration with the rest of the team is more seamless and files are accessible wherever we are. 
+Since the amount of content required for even a simple project can be quite substantial, we rely on Google Drive to keep everything organised. We create a folder in Google Drive to store all content for every new project. Using Google Docs to manage content is more convenient as collaboration with the rest of the team is more seamless and files are accessible wherever we are. 
 
 #### Step 7. Handoff Prep and Prototyping
 
 We update the copy on the UI designs to accurately reflect the final content. This practice helps us see the actual content on the designs and make layout adjustments before any engineering work is done. 
 
-After design is finalized, we import the screens to Marvel, our design handoff tool. Marvel automatically generates development resources like code snippets, design specs and assets that our engineering team uses. 
+After design is finalised, we import the screens to Marvel, our design handoff tool. Marvel automatically generates development resources like code snippets, design specs and assets that our engineering team uses. 
 
 We also regularly uses Marvel to create interactive prototypes to validate UX or collaborate ideas with our clients.  
 
@@ -121,7 +121,7 @@ The team meets at the start of every engineer cycle to discuss what features, pr
 
 #### Step 9. Localisation
 
-Our default language is English but we create an Arabic version of most of our products. During the engineering stage, the engineers will prepare the content in a JSON file format and share it to the localisation team for translation. The localization team uses a Memsource, a powerful translation memory platform, to manage our localization process. 
+Our default language is English but we create an Arabic version of most of our products. During the engineering stage, the engineers will prepare the content in a JSON file format and share it to the localisation team for translation. The localisation team uses a Memsource, a powerful translation memory platform, to manage our localisation process. 
 
 #### Step 10. Internal Review and Testing
 
