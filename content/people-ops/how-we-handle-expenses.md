@@ -31,3 +31,9 @@ Please upload any claims by the 24th of every month ping the @financeall team in
 If you need pre-approval for an expense please upload your quotes to this folder, [Pre-Approvals](https://drive.google.com/drive/folders/1-HHsuETumhJ51veSK7BOhnMbN_ZMyito) and add the details to the Google sheet called [Pre-Approval Requests](https://docs.google.com/spreadsheets/d/1OSM4UOx3rAJTCbgGOFhtpAmTGKUSqVIYESLRqU9WE5M/edit#gid=0) that you’ll find within. Please number your quotes so that they correspond to the  sheet and ping the @financeall team in the [#finance](https://esanjo.slack.com/messages/C661QBKM3) Slack channel with a heads up.
 
 As with most things we'll experiment with these processes and will iterate them as we go along.
+
+## Travel and Expense Guidelines
+
+Awesome, you're on your first business trip and you're looking up what our guidelines are for expensing. We want to keep it extremely simple - just follow our golden rule above!
+
+If you're booking flights and hotels it's best if you run it by the [#admin](https://esanjo.slack.com/messages/C694EAML1) team, who will aid you in making your bookings. If you're visiting a city with Uber, reach out to the admin team and ask for access to our Uber business account. We also have a Airbnb travel account - you guessed it - ask for an invite.
