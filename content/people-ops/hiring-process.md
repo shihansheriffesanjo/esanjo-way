@@ -17,7 +17,14 @@ draft: true
 
 The hiring process at Esanjo is pretty much the same as any other company. Depending on the role that a candidate applied for, the application process takes three to four stages.
 
-We use [Recuritee][1] as our hiring software. It is a tool that has everything the People Operations needs from opening and publishing a role on the Esanjo career website, applicant tracking system and even social media integration, making it easier to find and recruit potential hires.
+We use [Recruitee][1] as our Application Tracking System (ATS) software. It is a tool that has everything the People Operations needs from opening and publishing a role on the Esanjo career website, applicant tracking system and even social media integration, making it easier to find and recruit potential hires.
+
+
+## Creating a Job
+
+Before we jump into the hiring process let's discuss how you post a job. We use [Recruitee][1] to manage all our Jobs. Jump onto Recruitee and create a new Job that we're hiring for. We have a very specific format that we follow when creating a job description. Your best bet to is either jump into the archived jobs and clone a job or jump into the [Google Drive][3] folder where we store all our job descriptions. 
+
+If you need some tips on how to write solid job descriptions - head over to [Workable][4]. They have really good templates that can be used as a great guideline.
 
 ## The Stages of the Hiring Process
 
@@ -55,3 +62,5 @@ For other roles, there are usually three stages excluding the assessment stage.
 
 [1]: https://www.recruitee.com
 [2]: https://way.esanjo.com/about/core-values/
+[3]: https://drive.google.com/drive/u/1/folders/1rEhPElIE8pKQe4d-G_WEpverYaWei8Yq
+[4]: https://resources.workable.com/template/
