@@ -28,7 +28,7 @@ Every month, please create a new folder using the naming convention "Month Year"
 Please upload any claims by the 24th of every month ping the @financeall team in the [#finance](https://esanjo.slack.com/messages/C661QBKM3) Slack channel with a quick heads up. Any claims uploaded after the 24th will be settled in the following month.
 
 ## Requesting pre-approvals
-If you need pre-approval for an expense please upload your quotes to this folder, [Pre-Approvals](https://drive.google.com/drive/folders/1-HHsuETumhJ51veSK7BOhnMbN_ZMyito) and add the details to the Google sheet called [Pre-Approval Requests](https://docs.google.com/spreadsheets/d/1OSM4UOx3rAJTCbgGOFhtpAmTGKUSqVIYESLRqU9WE5M/edit#gid=0) that you’ll find within. Please number your quotes so that they correspond to the  sheet and ping the @financeall team in the [#finance](https://esanjo.slack.com/messages/C661QBKM3) Slack channel with a heads up.
+If you need pre-approval for an expense please upload your quotes to this folder, [Pre-Approvals](https://drive.google.com/drive/folders/1-HHsuETumhJ51veSK7BOhnMbN_ZMyito) and add the details to the Google sheet called [Pre-Approval Requests](https://docs.google.com/spreadsheets/d/1OSM4UOx3rAJTCbgGOFhtpAmTGKUSqVIYESLRqU9WE5M/edit#gid=0) (we've split the sheet between regular expenses and assets)  that you’ll find within. Please number your quotes so that they correspond to the  sheet and ping the @financeall team in the [#finance](https://esanjo.slack.com/messages/C661QBKM3) Slack channel with a heads up.
 
 As with most things we'll experiment with these processes and will iterate them as we go along.
 
