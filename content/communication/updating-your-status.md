@@ -11,6 +11,7 @@ sections: ""
 categories: ""
 excerpt: "Updating your Status"
 image: ""
+draft: true
 ---
 
 **Updating your status**
@@ -29,6 +30,6 @@ You may be on holiday in an area where fellow Esanjo nomads work. If you’d lik
 
 Don’t forget that the purpose of the [#whereabouts] (https://esanjo.slack.com/messages/C6B78S1NK/) channel is to let us know who is available and who isn’t. It is not for discussions - we have plenty of other channels for that. If you want to comment on someone’s #whereabouts post, please move it to #random.
 
-It is for the same reason that we don’t want people opening threads on #whereabouts. A thread used as an update means people looking for you need to waste time opening the thread. Just post your update directly in the channel where we can all see it. 
+It is for the same reason that we don’t want people opening threads on #whereabouts. A thread used as an update means people looking for you need to waste time opening the thread. Just post your update directly in the channel where we can all see it.
 
-Just to keep things fun though, you are allowed to react to a post with an emoji! 
+Just to keep things fun though, you are allowed to react to a post with an emoji!
