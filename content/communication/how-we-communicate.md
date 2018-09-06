@@ -27,7 +27,7 @@ Be open, stay open and things will work out. Mostly.
 
 Some popular channels that you should join include #general, #random as well as #whereabouts, which we use to keep other updated with a quick status update abut where we are or where we're going to be.
 
-This is our official Slack theme: #50049b,#3E313C,#3F95EA,#FFFFFF,#3E313C,#ffffff,#FD3C00,#EB4D5C. Stick it into Slack > Preferences > Sidebar and voila we're all colour matched. Encouraged but not enforced. Feel free to make up your own!
+This is our official Slack theme: #1560FA,#3E313C,#007bff,#FFFFFF,#3E313C,#ffffff,#fca400,#EB4D5C. Stick it into Slack > Preferences > Sidebar and voila we're all colour matched. Encouraged but not enforced. Feel free to make up your own!
 
 Slack has awesome help documentation to help get you up to speed: https://get.slack.help/hc/en-us/categories/200111606-Using-Slack
 
