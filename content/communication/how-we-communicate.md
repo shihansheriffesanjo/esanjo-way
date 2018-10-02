@@ -1,5 +1,5 @@
 ---
-date: 2017-10-16
+date: 2018-10-02
 toc: true
 next: "/next/path"
 prev: "/prev/path"
@@ -65,9 +65,9 @@ Set a high bar for yourself continue to push it upwards.
 ## Other tools
 I recently started looking into little tools that can tell you what time it is for a given person on the team:
 
-1. There, https://there.pm is a macOS only (sorry @jobin) widget thing that sits in your menu bar. It’s a super useful, but is a touch heavy and will take you a few minutes to setup get up and running. I’ve added everyone that is remote to me (i.e. not in Dubai!). It also has an account mechanism (I didn’t sign in = it’s an anonymous ID) which I’m not a big fan of, but it does mean that if someone is already on There you can add them super easily. One click Slack support coming soon.
+1\. There, https://there.pm is a macOS only (sorry @jobin) widget thing that sits in your menu bar. It’s a super useful, but is a touch heavy and will take you a few minutes to setup get up and running. I’ve added everyone that is remote to me (i.e. not in Dubai!). It also has an account mechanism (I didn’t sign in = it’s an anonymous ID) which I’m not a big fan of, but it does mean that if someone is already on There you can add them super easily. One click Slack support coming soon.
 
-2. Timezone.io is a service built by an engineer at Buffer. It’s super cool and is an easy one glance view, e.g. https://timezone.io/team/buffer but it means sending out an email to each person on the team and is also publicly visible (not a bad thing!) and @engineers will lament is infrequently updated, https://github.com/timezoneio/timezoneio. If it ain’t broke, don’t mess with it? (Open source, but remains copyrighted)
+2\. Timezone.io is a service built by an engineer at Buffer. It’s super cool and is an easy one glance view, e.g. https://timezone.io/team/buffer but it means sending out an email to each person on the team and is also publicly visible (not a bad thing!) and @engineers will lament is infrequently updated, https://github.com/timezoneio/timezoneio. If it ain’t broke, don’t mess with it? (Open source, but remains copyrighted)
 
 I’m going to keep playing with these. If you come across anything that may be interesting, please suggest it over Slack!
 
