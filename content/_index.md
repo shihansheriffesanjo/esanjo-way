@@ -18,11 +18,9 @@ banner: '/images/esanjo-way-home.svg'
 
 # How we work at Esanjo
 
-Aamir and I founded Esanjo as our take on what we felt a technology business should be. We're very big believers in the right culture and working with like-minded people. At the same time, we're opinionated, don't really like events (but are happy to come out on occasion) and will do anything that we can to get out of the the curse that is meetings. We love building stuff that people find useful, but more importantly also make them feel happy. We like interesting things, don't like administrative stuff, but also like being organised.
+We're very big believers in the right culture and working with like-minded people. At the same time, we're opinionated, don't really like events (but are happy to come out on occasion) and will do anything that we can to get out of the the curse that is meetings. We love building stuff that people find useful, but more importantly also make them feel happy. We like interesting things, don't like administrative stuff, but also like being organised. Our vision is to build an interesting, growing and profitable business. 
 
-We're still discovering what exactly Esanjo is (we recently stumbled into the crypto space..), but are happy to take our time to do so. We're a small team that's kicked off a few experiments, invested a bit of money in things that we think look promising and spent time and energy on ideas that we think may turn into interesting ventures.
-
-If you like uncertainty and recognise that the only real constant is change, [give us a look](https://careers.esanjo.com).
+Esanjo is a great place to do engaging work with incredible people, off the wall ideas and plenty of room for experimentation. If you like uncertainty and recognise that the only real constant is change, [give us a look](https://careers.esanjo.com).
 
 Over the last few years, we realised that most organisations build policies for what we like to call “the 2%”, those individuals who have a tendency towards disruption and therefore need rules to govern their organisational behaviour. Unfortunately this leads to long documents that no one reads (until there’s a problem) and a complicated set of policies that the other 98% have to live by. More rules is rarely, if ever, the right solution.
 
